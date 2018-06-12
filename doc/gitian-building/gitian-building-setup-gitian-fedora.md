@@ -75,13 +75,13 @@ cd ..
 
 **Note**: When sudo asks for a password, enter the password for the user `gitianuser` not for `root`.
 
-Clone the git repositories for enox and Gitian.
+Clone the git repositories for nodex and Gitian.
 
 ```bash
 git clone https://github.com/devrandom/gitian-builder.git
-git clone https://github.com/enox/enox
-git clone https://github.com/enoxproject/gitian.sigs.git
-git clone https://github.com/enoxproject/enox-detached-sigs.git
+git clone https://github.com/nodex/nodex
+git clone https://github.com/nodexproject/gitian.sigs.git
+git clone https://github.com/nodexproject/nodex-detached-sigs.git
 ```
 
 Setting up the Gitian image

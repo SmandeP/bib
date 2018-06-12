@@ -41,11 +41,11 @@ QString BitcoinUnits::id(int unit)
 {
     switch (unit) {
     case ENX:
-        return QString("enox");
+        return QString("nodex");
     case mENX:
-        return QString("menox");
+        return QString("mnodex");
     case uENX:
-        return QString::fromUtf8("uenox");
+        return QString::fromUtf8("unodex");
     default:
         return QString("???");
     }

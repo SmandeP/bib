@@ -7,7 +7,7 @@
 #define BITCOIN_COMPAT_H
 
 #if defined(HAVE_CONFIG_H)
-#include "config/enox-config.h"
+#include "config/nodex-config.h"
 #endif
 
 #ifdef WIN32

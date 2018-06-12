@@ -1,5 +1,5 @@
 ---
-name: "enox-dmg-signer"
+name: "nodex-dmg-signer"
 suites:
 - "trusty"
 architectures:
@@ -7,10 +7,10 @@ architectures:
 packages:
 - "faketime"
 remotes:
-- "url": "https://github.com/enoxproject/enox-detached-sigs.git"
+- "url": "https://github.com/nodexproject/nodex-detached-sigs.git"
   "dir": "signature"
 files:
-- "enox-osx-unsigned.tar.gz"
+- "nodex-osx-unsigned.tar.gz"
 script: |
   WRAP_DIR=$HOME/wrapped
   mkdir -p ${WRAP_DIR}
@@ -27,11 +27,11 @@ script: |
     chmod +x ${WRAP_DIR}/${prog}
   done
 
-  UNSIGNED=enox-osx-unsigned.tar.gz
-  SIGNED=enox-osx-signed.dmg
+  UNSIGNED=nodex-osx-unsigned.tar.gz
+  SIGNED=nodex-osx-signed.dmg
 
   tar -xf ${UNSIGNED}
   OSX_VOLNAME="$(cat osx_volname)"
   ./detached-sig-apply.sh ${UNSIGNED} signature/osx
-  ${WRAP_DIR}/genisoimage -no-cache-inodes -D -l -probe -V "Enox-Qt" -no-pad -r -dir-mode 0755 -apple -o uncompressed.dmg signed-app
+  ${WRAP_DIR}/genisoimage -no-cache-inodes -D -l -probe -V "Nodex-Qt" -no-pad -r -dir-mode 0755 -apple -o uncompressed.dmg signed-app
   ${WRAP_DIR}/dmg dmg uncompressed.dmg ${OUTDIR}/${SIGNED}

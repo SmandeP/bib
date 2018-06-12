@@ -2,13 +2,13 @@
 ====================
 
 
-Enox Core version 1.2.1 is now available from:
+Nodex Core version 1.2.1 is now available from:
 
-  https://enox.io/
+  https://nodex.io/
 
 Please report bugs using the issue tracker at github:
 
-  https://github.com/enoxproject/enox/issues
+  https://github.com/nodexproject/nodex/issues
 
 
 How to Upgrade
@@ -16,8 +16,8 @@ How to Upgrade
 
 If you are running an older version, shut it down. Wait until it has completely
 shut down (which might take a few minutes for older versions), then run the
-installer (on Windows) or just copy over /Applications/Enox-Qt (on Mac) or
-enoxd/enox-qt (on Linux).
+installer (on Windows) or just copy over /Applications/Nodex-Qt (on Mac) or
+nodexd/nodex-qt (on Linux).
 
 
 1.2.1 changelog
@@ -41,7 +41,7 @@ Also:
 Versioning Note
 ---------------
 
-Enox will now be switching to a more standard semantic versioning
+Nodex will now be switching to a more standard semantic versioning
 system (https://semver.org/). This means that in the future, the version numbers
 will take the form:
 

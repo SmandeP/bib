@@ -168,7 +168,7 @@
   <widget class="QStatusBar" name="statusbar"/>
  </widget>
  <resources>
-  <include location="../enox.qrc"/>
+  <include location="../nodex.qrc"/>
  </resources>
  <connections/>
 </ui>

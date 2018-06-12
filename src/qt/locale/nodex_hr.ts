@@ -115,8 +115,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Enox adresa s kojom je potpisana poruka</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Nodex adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Allowed: 0-9,a-z,A-Z,</source>
@@ -150,8 +150,8 @@
         <translation>Otvori konfiguracijsku datoteku</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -162,8 +162,8 @@
         <translation>&amp;BIP38 alat</translation>
     </message>
     <message>
-        <source>Enox Core client</source>
-        <translation>Enox Core klijent</translation>
+        <source>Nodex Core client</source>
+        <translation>Nodex Core klijent</translation>
     </message>
     <message>
         <source>Error</source>
@@ -256,15 +256,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>Error</source>
@@ -597,8 +597,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Enox Core is shutting down...</source>
-        <translation>Enox Core se gasi...</translation>
+        <source>Nodex Core is shutting down...</source>
+        <translation>Nodex Core se gasi...</translation>
     </message>
     </context>
 <context>
@@ -620,8 +620,8 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Enox adresa s kojom je potpisana poruka</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Nodex adresa s kojom je potpisana poruka</translation>
     </message>
     <message>
         <source>Message signed.</source>
@@ -635,8 +635,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -790,7 +790,7 @@
     </message>
     </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     <message>
         <source>Error</source>
         <translation>Greška</translation>

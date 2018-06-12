@@ -62,12 +62,12 @@
         <translation>Vastaanottavat osoitteet</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Nämä ovat sinun Enox osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
+        <source>These are your Nodex addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Nämä ovat sinun Nodex osoitteesi maksujen lähetystä varten. Tarkista aina määrä ja vastaanottava osoite ennen kolikoiden lähettämistä.</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Nämä ovat sinun Enox osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
+        <source>These are your Nodex addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Nämä ovat sinun Nodex osoitteesi maksujen vastaanottamista varten. On suositeltavaa käyttää uutta vastaanottavaa osoitetta jokaiselle uudelle rahansiirrolle.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -172,8 +172,8 @@
         <translation>Vahvista lompakon salaus</translation>
     </message>
     <message>
-        <source>Enox will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Enox sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella ENXien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex sulkeutuu salausprosessin ajaksi. Muista, että lompakon salaus ei voi täysin suojella ENXien varkaudelta, jos tietokoneesi sisältää haittaohjelmia.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -235,8 +235,8 @@
         <translation>&amp;BIP 38 Salaus</translation>
     </message>
     <message>
-        <source>Enter a Enox Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Syötä Enox osoite, jonnka tahtoisit salata käyttäen BIP 38.
+        <source>Enter a Nodex Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Syötä Nodex osoite, jonnka tahtoisit salata käyttäen BIP 38.
 Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityisavaimen.</translation>
     </message>
     <message>
@@ -244,8 +244,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Osoite:</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>Enox osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>Nodex osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -276,8 +276,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Enox osoitteen</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Nodex osoitteen</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -300,12 +300,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Syötä BIP 38 salattu yksityisavain. Syötä salausavain laatikkoon. Paina Avaa Salaus tuottaaksesi yksityisavaimen. Kun avain on dekryptattu, painamalla "Import osoite" lisää tämän yksityisavaimen lompakkoon.</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Enox osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Nodex osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla Enox osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla Nodex osoitteella.</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -591,16 +591,16 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>&amp;Apua</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Ydin</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Ydin</translation>
     </message>
     <message>
-        <source>Send coins to a Enox address</source>
-        <translation>Lähetä kolikkoja Enox osoitteeseen</translation>
+        <source>Send coins to a Nodex address</source>
+        <translation>Lähetä kolikkoja Nodex osoitteeseen</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and enox: URIs)</source>
-        <translation>Pyydä maksuja (Generoi QR koodeja ja enox: URIja)</translation>
+        <source>Request payments (generates QR codes and nodex: URIs)</source>
+        <translation>Pyydä maksuja (Generoi QR koodeja ja nodex: URIja)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -611,24 +611,24 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Selaa masternodeja</translation>
     </message>
     <message>
-        <source>&amp;About Enox Core</source>
-        <translation>Enox Core &amp;ytimestä</translation>
+        <source>&amp;About Nodex Core</source>
+        <translation>Nodex Core &amp;ytimestä</translation>
     </message>
     <message>
-        <source>Show information about Enox Core</source>
-        <translation>Näytä tietoja Enox Ytimestä</translation>
+        <source>Show information about Nodex Core</source>
+        <translation>Näytä tietoja Nodex Ytimestä</translation>
     </message>
     <message>
-        <source>Modify configuration options for Enox</source>
-        <translation>Muokkaa konfiguraatio vaihtoehtoja Enox:lle</translation>
+        <source>Modify configuration options for Nodex</source>
+        <translation>Muokkaa konfiguraatio vaihtoehtoja Nodex:lle</translation>
     </message>
     <message>
-        <source>Sign messages with your Enox addresses to prove you own them</source>
+        <source>Sign messages with your Nodex addresses to prove you own them</source>
         <translation>Allekirjoita viestejä todistaaksesi, että omistat ne.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Enox addresses</source>
-        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä Enox osoiteella.</translation>
+        <source>Verify messages to ensure they were signed with specified Nodex addresses</source>
+        <translation>Vahvista viestit varmistaaksesi, että ne allekirjoitettiin tietyllä Nodex osoiteella.</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -659,8 +659,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Avaa Masternode konfiguraatiotiedosto</translation>
     </message>
     <message>
-        <source>Open a Enox: URI or payment request</source>
-        <translation>Avaa Enox: URI tai pyydä maksua</translation>
+        <source>Open a Nodex: URI or payment request</source>
+        <translation>Avaa Nodex: URI tai pyydä maksua</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -671,12 +671,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Lohkon tutkija näkymä</translation>
     </message>
     <message>
-        <source>Show the Enox Core help message to get a list with possible Enox command-line options</source>
-        <translation>Näytä Enox Ydin apuviesti saadaksesi lista mahdollisista Enox komentolinja komennoista.</translation>
+        <source>Show the Nodex Core help message to get a list with possible Nodex command-line options</source>
+        <translation>Näytä Nodex Ydin apuviesti saadaksesi lista mahdollisista Nodex komentolinja komennoista.</translation>
     </message>
     <message>
-        <source>Enox Core client</source>
-        <translation>Enox Ydin asiakasohjelma</translation>
+        <source>Nodex Core client</source>
+        <translation>Nodex Ydin asiakasohjelma</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -934,8 +934,8 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Ydin</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Ydin</translation>
     </message>
     <message>
         <source>Usage:</source>
@@ -953,12 +953,12 @@ Syötä salausavain laatikon keskelle. Paina salaa tuottaaksesi salatun yksityis
         <translation>Tervetuloa</translation>
     </message>
     <message>
-        <source>Welcome to Enox Core.</source>
-        <translation>Tervetuloa Enox Ytimeen.</translation>
+        <source>Welcome to Nodex Core.</source>
+        <translation>Tervetuloa Nodex Ytimeen.</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Ydin</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Ydin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1136,11 +1136,11 @@ Please check the address and try again.</source>
     </message>
     <message>
         <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 Enox</translation>
+        <translation>Käytä 2 erillistä masternodea sekoittaaksesi enintään 10000 Nodex</translation>
     </message>
     <message>
         <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 Enox</translation>
+        <translation>Käytä 8 erillistä masternodea sekoittaaksesi enintään 10000 Nodex</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
@@ -1148,11 +1148,11 @@ Please check the address and try again.</source>
     </message>
     <message>
         <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 ENX anonymoidaksesi 10000 Enox</translation>
+        <translation>Tämä vaihtoehto on nopein ja maksaa noin ~0.025 ENX anonymoidaksesi 10000 Nodex</translation>
     </message>
     <message>
         <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 Enox anonymoidaksesi 10000 Enox</translation>
+        <translation>Tämä vaihtoehto on suhteellisen nopea ja maksaa 0.05 Nodex anonymoidaksesi 10000 Nodex</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1160,7 +1160,7 @@ Please check the address and try again.</source>
     </message>
     <message>
         <source>0.1 ENX per 10000 ENX you anonymize.</source>
-        <translation>0.1 per 10000 Enox, jotka anonymisoit.</translation>
+        <translation>0.1 per 10000 Nodex, jotka anonymisoit.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1209,12 +1209,12 @@ Please check the address and try again.</source>
         <translation>Ekspertti</translation>
     </message>
     <message>
-        <source>Automatically start Enox after logging in to the system.</source>
-        <translation>Automaattisesti käynnistä Enox kun kirjaudut sisään.</translation>
+        <source>Automatically start Nodex after logging in to the system.</source>
+        <translation>Automaattisesti käynnistä Nodex kun kirjaudut sisään.</translation>
     </message>
     <message>
-        <source>&amp;Start Enox on system login</source>
-        <translation>&amp;Aloita Enox järjestelmän kirjautumisessa</translation>
+        <source>&amp;Start Nodex on system login</source>
+        <translation>&amp;Aloita Nodex järjestelmän kirjautumisessa</translation>
     </message>
     <message>
         <source>Enable coin &amp;control features</source>
@@ -1233,12 +1233,12 @@ Please check the address and try again.</source>
         <translation>&amp;Verkko</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Enox.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Nodex.</source>
         <translation>Käyttöliittymän kielen voi säätää täällä. Tämä asetus tulee voimaan uudelleenkäynnistettyäsi lompakon.</translation>
     </message>
     <message>
-        <source>Connect to the Enox network through a SOCKS5 proxy.</source>
-        <translation>Yhdistä Enox verkkoon SOCKS5 proxyn kautta</translation>
+        <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
+        <translation>Yhdistä Nodex verkkoon SOCKS5 proxyn kautta</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1542,8 +1542,8 @@ Please check the address and try again.</source>
         <translation>Lohko ketju</translation>
     </message>
     <message>
-        <source>Open the Enox debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Avaa Enox debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
+        <source>Open the Nodex debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Avaa Nodex debug loki nykyisestä sijainnista. Tämä voi kestää muutaman sekunnin suurille lokeille</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -1654,8 +1654,8 @@ Please check the address and try again.</source>
         <translation>Ulos:</translation>
     </message>
     <message>
-        <source>Welcome to the Enox RPC console.</source>
-        <translation>Tervetuloa Enox RPC konsoliin.</translation>
+        <source>Welcome to the Nodex RPC console.</source>
+        <translation>Tervetuloa Nodex RPC konsoliin.</translation>
     </message>
     <message>
         <source>never</source>
@@ -1697,12 +1697,12 @@ Please check the address and try again.</source>
         <translation>Vaihtoehtoinen nimike uudelle vastaanottavalle osoitteelle</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana Enox verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>Vaihtoehtoinen viesti joka liitetään maksupyyntöön, joka näytetään kun pyyntö avataan. Huomio: Viestiä ei lähetetä maksun mukana Nodex verkolle.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana Enox  verkolle.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>Vaihtoehtoinen viesti, joka liitetään maksupyyntöö, joka näytetään kun pyyntö avataan. &lt;br&gt; Huomio: Tätä viestiä ei lähetetä maksun mukana Nodex  verkolle.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -1982,8 +1982,8 @@ Please check the address and try again.</source>
         <translation>käyttää</translation>
     </message>
     <message>
-        <source>Warning: Invalid Enox address</source>
-        <translation>Varoitus: Virheellinen Enox osoite</translation>
+        <source>Warning: Invalid Nodex address</source>
+        <translation>Varoitus: Virheellinen Nodex osoite</translation>
     </message>
     <message>
         <source>Are you sure you want to send?</source>
@@ -2029,8 +2029,8 @@ Please check the address and try again.</source>
         <translation>Tämä on normaali maksu.</translation>
     </message>
     <message>
-        <source>The Enox address to send the payment to</source>
-        <translation>Enox osoite johon maksu lähetetään</translation>
+        <source>The Nodex address to send the payment to</source>
+        <translation>Nodex osoite johon maksu lähetetään</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2072,8 +2072,8 @@ Please check the address and try again.</source>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Enox Core is shutting down...</source>
-        <translation>Enox core sammuu...</translation>
+        <source>Nodex Core is shutting down...</source>
+        <translation>Nodex core sammuu...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2091,8 +2091,8 @@ Please check the address and try again.</source>
         <translation>Voit allekirjoittaa viestejä osoitteillasi todistaaksesi, että omistat ne. Ole varovainen ettet allekirjoita mitään kummallista, sillä kalasteluyritykset saattavat yrittää huijata sinut luovuttamaan tietoja. Allekirjoita vain täysin yksityiskohtaisia sanomia, jotka hyväksyt.</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>Enox osoite, jolla viesti allekirjoitetaan</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>Nodex osoite, jolla viesti allekirjoitetaan</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2123,16 +2123,16 @@ Please check the address and try again.</source>
         <translation>Kopioi nykyinen allekirjoitus järjestelmän leikepöydälle</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Enox osoitteen</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Allekirjoita viesti todistaaksesi, että omistat tämän Nodex osoitteen</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Enox osoite, jolla viesti allekirjoitettiin</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Nodex osoite, jolla viesti allekirjoitettiin</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla Enox osoitteella.</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Vahvista että viesti on allekirjoitettu kyseessä olevalla Nodex osoitteella.</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2214,8 +2214,8 @@ Please check the address and try again.</source>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Ydin</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Ydin</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -2230,8 +2230,8 @@ Please check the address and try again.</source>
         <translation>Dash Core kehittäjät</translation>
     </message>
     <message>
-        <source>The Enox Core developers</source>
-        <translation>Enox core kehittäjät</translation>
+        <source>The Nodex Core developers</source>
+        <translation>Nodex core kehittäjät</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2541,7 +2541,7 @@ Please check the address and try again.</source>
     </message>
     </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
         <translation>Varoitus: Verkko ei näytä olevan samaa mieltä! Jotkin mainaajat saattavat kokea ongelmia.</translation>
@@ -2591,8 +2591,8 @@ Please check the address and try again.</source>
         <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko korruptoitunut</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Enox Core</source>
-        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Enox Coresta</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Nodex Core</source>
+        <translation>Virhe ladattaessa wallet.dat tiedostoa: Lompakko vaatii uudemman version Nodex Coresta</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>

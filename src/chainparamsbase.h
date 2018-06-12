@@ -9,8 +9,8 @@
 #include <vector>
 
 /**
- * CBaseChainParams defines the base parameters (shared between enox-cli and enoxd)
- * of a given instance of the Enox system.
+ * CBaseChainParams defines the base parameters (shared between nodex-cli and nodexd)
+ * of a given instance of the Nodex system.
  */
 class CBaseChainParams
 {

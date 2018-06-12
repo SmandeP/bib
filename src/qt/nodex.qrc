@@ -38,12 +38,12 @@
         <file alias="tx_input">res/icons/tx_input.png</file>
         <file alias="tx_output">res/icons/tx_output.png</file>
         <file alias="tx_inout">res/icons/tx_inout.png</file>
-        <file alias="unit_enox">res/icons/unit_enox.png</file>
-        <file alias="unit_menox">res/icons/unit_menox.png</file>
-        <file alias="unit_uenox">res/icons/unit_uenox.png</file>
-        <file alias="unit_tenox">res/icons/unit_tenox.png</file>
-        <file alias="unit_tmenox">res/icons/unit_tmenox.png</file>
-        <file alias="unit_tuenox">res/icons/unit_tuenox.png</file>
+        <file alias="unit_nodex">res/icons/unit_nodex.png</file>
+        <file alias="unit_mnodex">res/icons/unit_mnodex.png</file>
+        <file alias="unit_unodex">res/icons/unit_unodex.png</file>
+        <file alias="unit_tnodex">res/icons/unit_tnodex.png</file>
+        <file alias="unit_tmnodex">res/icons/unit_tmnodex.png</file>
+        <file alias="unit_tunodex">res/icons/unit_tunodex.png</file>
         <file alias="lock_closed">res/icons/lock_closed.png</file>
         <file alias="lock_open">res/icons/lock_open.png</file>
         <file alias="key">res/icons/key.png</file>
@@ -59,7 +59,7 @@
     </qresource>
     <qresource prefix="/images">
         <file alias="about">res/images/about.png</file>
-        <file alias="enox_logo_horizontal">res/images/enox_logo_horizontal.png</file>
+        <file alias="nodex_logo_horizontal">res/images/nodex_logo_horizontal.png</file>
         <file alias="downArrow">res/images/downArrow.png</file>
         <file alias="downArrow_small">res/images/downArrow_small.png</file>
         <file alias="upArrow_small">res/images/upArrow_small.png</file>

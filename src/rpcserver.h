@@ -96,7 +96,7 @@ public:
 };
 
 /**
- * Enox RPC command dispatcher.
+ * Nodex RPC command dispatcher.
  */
 class CRPCTable
 {

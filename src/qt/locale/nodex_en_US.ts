@@ -62,12 +62,12 @@
         <translation>Receiving addresses</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Enox addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Nodex addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Nodex addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>These are your Enox addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
+        <source>These are your Nodex addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>These are your Nodex addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Confirm wallet encryption</translation>
     </message>
     <message>
-        <source>Enox will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Enox will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Encrypt</translation>
     </message>
     <message>
-        <source>Enter a Enox Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Enter a Enox Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</translation>
+        <source>Enter a Nodex Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Enter a Nodex Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Address:</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>The Enox address to sign the message with</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>The Nodex address to sign the message with</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Sign the message to prove you own this Enox address</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Sign the message to prove you own this Nodex address</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Enter the BIP 38 encrypted private key. Enter the passphrase in the middle box. Click Decrypt Key to compute the private key. After the key is decrypted, clicking 'Import Address' will add this private key to the wallet.</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>The Enox address the message was signed with</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>The Nodex address the message was signed with</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Verify the message to ensure it was signed with the specified Enox address</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Verify the message to ensure it was signed with the specified Nodex address</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,16 +602,16 @@
         <translation>Tabs toolbar</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
-        <source>Send coins to a Enox address</source>
-        <translation>Send coins to a Enox address</translation>
+        <source>Send coins to a Nodex address</source>
+        <translation>Send coins to a Nodex address</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and enox: URIs)</source>
-        <translation>Request payments (generates QR codes and enox: URIs)</translation>
+        <source>Request payments (generates QR codes and nodex: URIs)</source>
+        <translation>Request payments (generates QR codes and nodex: URIs)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -622,24 +622,24 @@
         <translation>Browse masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Enox Core</source>
-        <translation>&amp;About Enox Core</translation>
+        <source>&amp;About Nodex Core</source>
+        <translation>&amp;About Nodex Core</translation>
     </message>
     <message>
-        <source>Show information about Enox Core</source>
-        <translation>Show information about Enox Core</translation>
+        <source>Show information about Nodex Core</source>
+        <translation>Show information about Nodex Core</translation>
     </message>
     <message>
-        <source>Modify configuration options for Enox</source>
-        <translation>Modify configuration options for Enox</translation>
+        <source>Modify configuration options for Nodex</source>
+        <translation>Modify configuration options for Nodex</translation>
     </message>
     <message>
-        <source>Sign messages with your Enox addresses to prove you own them</source>
-        <translation>Sign messages with your Enox addresses to prove you own them</translation>
+        <source>Sign messages with your Nodex addresses to prove you own them</source>
+        <translation>Sign messages with your Nodex addresses to prove you own them</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Enox addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Enox addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Nodex addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Nodex addresses</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -670,8 +670,8 @@
         <translation>Open Masternode configuration file</translation>
     </message>
     <message>
-        <source>Open a Enox: URI or payment request</source>
-        <translation>Open a Enox: URI or payment request</translation>
+        <source>Open a Nodex: URI or payment request</source>
+        <translation>Open a Nodex: URI or payment request</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -682,16 +682,16 @@
         <translation>Block explorer window</translation>
     </message>
     <message>
-        <source>Show the Enox Core help message to get a list with possible Enox command-line options</source>
-        <translation>Show the Enox Core help message to get a list with possible Enox command-line options</translation>
+        <source>Show the Nodex Core help message to get a list with possible Nodex command-line options</source>
+        <translation>Show the Nodex Core help message to get a list with possible Nodex command-line options</translation>
     </message>
     <message>
-        <source>Enox Core client</source>
-        <translation>Enox Core client</translation>
+        <source>Nodex Core client</source>
+        <translation>Nodex Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Enox network</source>
-        <translation><numerusform>%n active connection(s) to Enox network</numerusform><numerusform>%n active connection(s) to Enox network</numerusform></translation>
+        <source>%n active connection(s) to Nodex network</source>
+        <translation><numerusform>%n active connection(s) to Nodex network</numerusform><numerusform>%n active connection(s) to Nodex network</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -837,8 +837,8 @@ Address: %4
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (enox.conf).</source>
-        <translation>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (enox.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (nodex.conf).</source>
+        <translation>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (nodex.conf).</translation>
     </message>
 </context>
 <context>
@@ -1138,8 +1138,8 @@ Address: %4
         <translation>Edit sending address</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Enox address.</source>
-        <translation>The entered address "%1" is not a valid Enox address.</translation>
+        <source>The entered address "%1" is not a valid Nodex address.</source>
+        <translation>The entered address "%1" is not a valid Nodex address.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1184,16 +1184,16 @@ Address: %4
         <translation>version</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Enox Core</source>
-        <translation>About Enox Core</translation>
+        <source>About Nodex Core</source>
+        <translation>About Nodex Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1239,16 +1239,16 @@ Address: %4
         <translation>Welcome</translation>
     </message>
     <message>
-        <source>Welcome to Enox Core.</source>
-        <translation>Welcome to Enox Core.</translation>
+        <source>Welcome to Nodex Core.</source>
+        <translation>Welcome to Nodex Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Enox Core will store its data.</source>
-        <translation>As this is the first time the program is launched, you can choose where Enox Core will store its data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Nodex Core will store its data.</source>
+        <translation>As this is the first time the program is launched, you can choose where Nodex Core will store its data.</translation>
     </message>
     <message>
-        <source>Enox Core will download and store a copy of the Enox block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Enox Core will download and store a copy of the Enox block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
+        <source>Nodex Core will download and store a copy of the Nodex block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Nodex Core will download and store a copy of the Nodex block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1259,8 +1259,8 @@ Address: %4
         <translation>Use a custom data directory:</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1401,12 +1401,12 @@ Address: %4
         <translation>Enter Address to Send to</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Enox addresses after it matures.
-To Add: enter percentage to give and Enox address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Nodex addresses after it matures.
+To Add: enter percentage to give and Nodex address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Enox addresses after it matures.
-To Add: enter percentage to give and Enox address to add to the MultiSend vector.
+        <translation>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Nodex addresses after it matures.
+To Add: enter percentage to give and Nodex address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</translation>
     </message>
@@ -1576,16 +1576,16 @@ Please check the address and try again.</translation>
         <translation>Obfuscation Configuration</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Enox's configuration screen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Nodex's configuration screen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Enox's configuration screen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Nodex's configuration screen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Enox's configuration screen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Nodex's configuration screen.</translation>
     </message>
 </context>
 <context>
@@ -1646,8 +1646,8 @@ Please check the address and try again.</translation>
         <translation>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</translation>
     </message>
     <message>
-        <source>Automatically open the Enox client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Enox client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Nodex client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Nodex client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1666,12 +1666,12 @@ Please check the address and try again.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Enox after logging in to the system.</source>
-        <translation>Automatically start Enox after logging in to the system.</translation>
+        <source>Automatically start Nodex after logging in to the system.</source>
+        <translation>Automatically start Nodex after logging in to the system.</translation>
     </message>
     <message>
-        <source>&amp;Start Enox on system login</source>
-        <translation>&amp;Start Enox on system login</translation>
+        <source>&amp;Start Nodex on system login</source>
+        <translation>&amp;Start Nodex on system login</translation>
     </message>
     <message>
         <source>This setting determines the amount of individual masternodes that an input will be anonymized through.&lt;br/&gt;More rounds of anonymization gives a higher degree of privacy, but also costs more in fees.</source>
@@ -1686,8 +1686,8 @@ Please check the address and try again.</translation>
         <translation>This amount acts as a threshold to turn off Obfuscation once it's reached.</translation>
     </message>
     <message>
-        <source>Amount of Enox to keep anonymized</source>
-        <translation>Amount of Enox to keep anonymized</translation>
+        <source>Amount of Nodex to keep anonymized</source>
+        <translation>Amount of Nodex to keep anonymized</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1714,22 +1714,22 @@ Please check the address and try again.</translation>
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Enox.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Enox.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Nodex.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Nodex.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/enox-project/enox-project-translations</source>
+https://www.transifex.com/nodex-project/nodex-project-translations</source>
         <translation>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/enox-project/enox-project-translations</translation>
+https://www.transifex.com/nodex-project/nodex-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>Map port using &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Enox network through a SOCKS5 proxy.</source>
-        <translation>Connect to the Enox network through a SOCKS5 proxy.</translation>
+        <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
+        <translation>Connect to the Nodex network through a SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1883,8 +1883,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Balances</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Enox network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Enox network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Nodex network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Nodex network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -2092,12 +2092,12 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Invalid payment address %1</translation>
     </message>
     <message>
-        <source>Cannot start enox: click-to-pay handler</source>
-        <translation>Cannot start enox: click-to-pay handler</translation>
+        <source>Cannot start nodex: click-to-pay handler</source>
+        <translation>Cannot start nodex: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Enox address or malformed URI parameters.</source>
-        <translation>URI cannot be parsed! This can be caused by an invalid Enox address or malformed URI parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Nodex address or malformed URI parameters.</source>
+        <translation>URI cannot be parsed! This can be caused by an invalid Nodex address or malformed URI parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2182,8 +2182,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Amount</translation>
     </message>
     <message>
-        <source>Enter a Enox address (e.g. %1)</source>
-        <translation>Enter a Enox address (e.g. %1)</translation>
+        <source>Enter a Nodex address (e.g. %1)</source>
+        <translation>Enter a Nodex address (e.g. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2316,8 +2316,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Block chain</translation>
     </message>
     <message>
-        <source>Open the Enox debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Enox debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Nodex debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Nodex debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2484,8 +2484,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Out:</translation>
     </message>
     <message>
-        <source>Welcome to the Enox RPC console.</source>
-        <translation>Welcome to the Enox RPC console.</translation>
+        <source>Welcome to the Nodex RPC console.</source>
+        <translation>Welcome to the Nodex RPC console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2555,12 +2555,12 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>An optional label to associate with the new receiving address.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Enox network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Nodex network.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Enox network.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Nodex network.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -2848,8 +2848,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uENXs in fee,&lt;br /&gt;while "total at least" pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Enox transactions than the network can process.</source>
-        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Enox transactions than the network can process.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</source>
+        <translation>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -2952,8 +2952,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>anonymous funds</translation>
     </message>
     <message>
-        <source>Warning: Invalid Enox address</source>
-        <translation>Warning: Invalid Enox address</translation>
+        <source>Warning: Invalid Nodex address</source>
+        <translation>Warning: Invalid Nodex address</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3059,8 +3059,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Pay &amp;To:</translation>
     </message>
     <message>
-        <source>The Enox address to send the payment to</source>
-        <translation>The Enox address to send the payment to</translation>
+        <source>The Nodex address to send the payment to</source>
+        <translation>The Nodex address to send the payment to</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3099,8 +3099,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Message:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Enox: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Enox network.</source>
-        <translation>A message that was attached to the Enox: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Enox network.</translation>
+        <source>A message that was attached to the Nodex: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Nodex network.</source>
+        <translation>A message that was attached to the Nodex: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Nodex network.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3126,8 +3126,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Enox Core is shutting down...</source>
-        <translation>Enox Core is shutting down...</translation>
+        <source>Nodex Core is shutting down...</source>
+        <translation>Nodex Core is shutting down...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3149,8 +3149,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>The Enox address to sign the message with</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>The Nodex address to sign the message with</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3181,16 +3181,16 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Copy the current signature to the system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Sign the message to prove you own this Enox address</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Sign the message to prove you own this Nodex address</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>The Enox address the message was signed with</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>The Nodex address the message was signed with</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Verify the message to ensure it was signed with the specified Enox address</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Verify the message to ensure it was signed with the specified Nodex address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3276,8 +3276,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Core</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Core</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3292,8 +3292,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>The Dash Core developers</translation>
     </message>
     <message>
-        <source>The Enox Core developers</source>
-        <translation>The Enox Core developers</translation>
+        <source>The Nodex Core developers</source>
+        <translation>The Nodex Core developers</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -3884,7 +3884,7 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
     </message>
 </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</translation>
@@ -3910,8 +3910,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Bind to given address to listen for JSON-RPC connections. Use [host]:port notation for IPv6. This option can be specified multiple times (default: bind to all interfaces)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Enox Core is probably already running.</source>
-        <translation>Cannot obtain a lock on data directory %s. Enox Core is probably already running.</translation>
+        <source>Cannot obtain a lock on data directory %s. Nodex Core is probably already running.</source>
+        <translation>Cannot obtain a lock on data directory %s. Nodex Core is probably already running.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -3930,8 +3930,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Delete all wallet transactions and only recover those parts of the blockchain through -rescan on startup</translation>
     </message>
     <message>
-        <source>Disable all Enox specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Disable all Enox specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</translation>
+        <source>Disable all Nodex specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Disable all Nodex specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4082,32 +4082,32 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>This product includes software developed by the OpenSSL Project for use in the OpenSSL Toolkit &lt;https://www.openssl.org/&gt; and cryptographic software written by Eric Young and UPnP software written by Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use enoxd, or the -server option to enox-qt, you must set an rpcpassword in the configuration file:
+        <source>To use nodexd, or the -server option to nodex-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=enoxrpc
+rpcuser=nodexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Nodex Alert" admin@foo.com
 </source>
-        <translation>To use enoxd, or the -server option to enox-qt, you must set an rpcpassword in the configuration file:
+        <translation>To use nodexd, or the -server option to nodex-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=enoxrpc
+rpcuser=nodexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Nodex Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Enox Core is probably already running.</source>
-        <translation>Unable to bind to %s on this computer. Enox Core is probably already running.</translation>
+        <source>Unable to bind to %s on this computer. Nodex Core is probably already running.</source>
+        <translation>Unable to bind to %s on this computer. Nodex Core is probably already running.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4134,8 +4134,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Enox Core will not work properly.</source>
-        <translation>Warning: Please check that your computer's date and time are correct! If your clock is wrong Enox Core will not work properly.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Nodex Core will not work properly.</source>
+        <translation>Warning: Please check that your computer's date and time are correct! If your clock is wrong Nodex Core will not work properly.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4166,8 +4166,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>You must specify a masternodeprivkey in the configuration. Please see documentation for help.</translation>
     </message>
     <message>
-        <source>(21001 could be used only on mainnet)</source>
-        <translation>(21001 could be used only on mainnet)</translation>
+        <source>(11220 could be used only on mainnet)</source>
+        <translation>(11220 could be used only on mainnet)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4178,8 +4178,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>(default: 1)</translation>
     </message>
     <message>
-        <source>(must be 21001 for mainnet)</source>
-        <translation>(must be 21001 for mainnet)</translation>
+        <source>(must be 11220 for mainnet)</source>
+        <translation>(must be 11220 for mainnet)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
@@ -4282,8 +4282,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Core Developers</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Enox Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Enox Core Developers</translation>
+        <source>Copyright (C) 2015-%i The Nodex Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Nodex Core Developers</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4354,8 +4354,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Error loading wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Enox Core</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Enox Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Nodex Core</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Nodex Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4466,8 +4466,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Information</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Enox Core is shutting down.</source>
-        <translation>Initialization sanity check failed. Enox Core is shutting down.</translation>
+        <source>Initialization sanity check failed. Nodex Core is shutting down.</source>
+        <translation>Initialization sanity check failed. Nodex Core is shutting down.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5086,8 +5086,8 @@ for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Wallet is locked.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Enox Core to complete</source>
-        <translation>Wallet needed to be rewritten: restart Enox Core to complete</translation>
+        <source>Wallet needed to be rewritten: restart Nodex Core to complete</source>
+        <translation>Wallet needed to be rewritten: restart Nodex Core to complete</translation>
     </message>
     <message>
         <source>Wallet options:</source>

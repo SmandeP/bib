@@ -62,12 +62,12 @@
         <translation>Ontvangstadressen</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Dit zijn uw Enoxadressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden.</translation>
+        <source>These are your Nodex addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Dit zijn uw Nodexadressen om betalingen mee te verzenden. Controleer altijd zowel het bedrag als het ontvangstadres voor het verzenden.</translation>
     </message>
     <message>
-        <source>These are your Enox addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dit zijn uw Enoxadressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
+        <source>These are your Nodex addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dit zijn uw Nodexadressen waarop betalingen kunnen worden ontvangen. Het wordt aangeraden om een nieuw ontvangstadres voor elke transactie te gebruiken.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -176,8 +176,8 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>Enox will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Enox zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw ENXs stelen.</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw ENXs stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -239,16 +239,16 @@
         <translation>&amp;BIP 38 Versleuteling</translation>
     </message>
     <message>
-        <source>Enter a Enox Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Voer een Enox adres in dat u wilt versleutelen met BIP 38. Voer een wachtwoord in, in het middelste veld. Druk op versleutelen om de versleutelde geheime sleutel te berekenen.</translation>
+        <source>Enter a Nodex Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
+        <translation>Voer een Nodex adres in dat u wilt versleutelen met BIP 38. Voer een wachtwoord in, in het middelste veld. Druk op versleutelen om de versleutelde geheime sleutel te berekenen.</translation>
     </message>
     <message>
         <source>Address:</source>
         <translation>Adres:</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>Het Enox adres om het bericht met te ondertekenen</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>Het Nodex adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -279,8 +279,8 @@
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het Enox adres bezit</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het Nodex adres bezit</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -303,12 +303,12 @@
         <translation>Voer de BIP 38 versleutelde geheime sleutel in. Voer het wachtwoord in, in het middelste veld. Druk op Ontsleutelen Sleutel om de geheime sleutel te berekenen.  Nadat de geheime sleutel is ontsleuteld, zal het klikken op 'Adres Importeren' de geheime sleutel toevoegen aan de portemonnee.</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Het Enox adres waarmee het bericht was ondertekend</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Het Nodex adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde Enox adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde Nodex adres</translation>
     </message>
     <message>
         <source>Decrypt &amp;Key</source>
@@ -602,16 +602,16 @@
         <translation>Tabblad werkbalk</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Kern</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Kern</translation>
     </message>
     <message>
-        <source>Send coins to a Enox address</source>
-        <translation>Verstuur munten naar een Enox adres</translation>
+        <source>Send coins to a Nodex address</source>
+        <translation>Verstuur munten naar een Nodex adres</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and enox: URIs)</source>
-        <translation>Vraag betaling aan (genereert QR-codes en Enox: URI's)</translation>
+        <source>Request payments (generates QR codes and nodex: URIs)</source>
+        <translation>Vraag betaling aan (genereert QR-codes en Nodex: URI's)</translation>
     </message>
     <message>
         <source>&amp;Privacy</source>
@@ -630,24 +630,24 @@
         <translation>Bekijk masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Enox Core</source>
-        <translation>&amp;Over Enox Kern</translation>
+        <source>&amp;About Nodex Core</source>
+        <translation>&amp;Over Nodex Kern</translation>
     </message>
     <message>
-        <source>Show information about Enox Core</source>
-        <translation>Toon informatie over Enox Kern</translation>
+        <source>Show information about Nodex Core</source>
+        <translation>Toon informatie over Nodex Kern</translation>
     </message>
     <message>
-        <source>Modify configuration options for Enox</source>
-        <translation>Wijzig Enox configuratie opties</translation>
+        <source>Modify configuration options for Nodex</source>
+        <translation>Wijzig Nodex configuratie opties</translation>
     </message>
     <message>
-        <source>Sign messages with your Enox addresses to prove you own them</source>
-        <translation>Onderteken berichten met uw Enox adressen om te bewijzen dat u deze adressen bezit</translation>
+        <source>Sign messages with your Nodex addresses to prove you own them</source>
+        <translation>Onderteken berichten met uw Nodex adressen om te bewijzen dat u deze adressen bezit</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Enox addresses</source>
-        <translation>Controleer berichten om te verifiëren dat deze ondertekend zijn met de gespecificeerde Enox adressen</translation>
+        <source>Verify messages to ensure they were signed with specified Nodex addresses</source>
+        <translation>Controleer berichten om te verifiëren dat deze ondertekend zijn met de gespecificeerde Nodex adressen</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -678,8 +678,8 @@
         <translation>Open Masternode configuratiebestand</translation>
     </message>
     <message>
-        <source>Open a Enox: URI or payment request</source>
-        <translation>Open een Enox: URI of betaalverzoek</translation>
+        <source>Open a Nodex: URI or payment request</source>
+        <translation>Open een Nodex: URI of betaalverzoek</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -690,16 +690,16 @@
         <translation>Block verkenner venster</translation>
     </message>
     <message>
-        <source>Show the Enox Core help message to get a list with possible Enox command-line options</source>
-        <translation>Toon het Enox Core help bericht om een ​​lijst te krijgen met mogelijke Enox command line opties</translation>
+        <source>Show the Nodex Core help message to get a list with possible Nodex command-line options</source>
+        <translation>Toon het Nodex Core help bericht om een ​​lijst te krijgen met mogelijke Nodex command line opties</translation>
     </message>
     <message>
-        <source>Enox Core client</source>
-        <translation>Enox Core client</translation>
+        <source>Nodex Core client</source>
+        <translation>Nodex Core client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Enox network</source>
-        <translation><numerusform>%n actieve verbinding(en) naar het Enox netwerk</numerusform><numerusform>%n actieve verbinding(en) naar het Enox netwerk</numerusform></translation>
+        <source>%n active connection(s) to Nodex network</source>
+        <translation><numerusform>%n actieve verbinding(en) naar het Nodex netwerk</numerusform><numerusform>%n actieve verbinding(en) naar het Nodex netwerk</numerusform></translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -849,8 +849,8 @@ MultiSend: %1</translation>
         <translation>TextLabel</translation>
     </message>
     <message>
-        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (enox.conf).</source>
-        <translation>Niet alle transacties worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (enox.conf).</translation>
+        <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (nodex.conf).</source>
+        <translation>Niet alle transacties worden getoond. Om alle transacties te bekijken moet u txindex=1 instellen in het configuratie bestand (nodex.conf).</translation>
     </message>
 </context>
 <context>
@@ -1134,8 +1134,8 @@ MultiSend: %1</translation>
         <translation>Wijzig verzendadres</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Enox address.</source>
-        <translation>Het ingevoerde adres: "%1" is geen geldig Enox adres.</translation>
+        <source>The entered address "%1" is not a valid Nodex address.</source>
+        <translation>Het ingevoerde adres: "%1" is geen geldig Nodex adres.</translation>
     </message>
     <message>
         <source>The entered address "%1" is already in the address book.</source>
@@ -1180,16 +1180,16 @@ MultiSend: %1</translation>
         <translation>versie</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Kern</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Kern</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Enox Core</source>
-        <translation>Over Enox Core</translation>
+        <source>About Nodex Core</source>
+        <translation>Over Nodex Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -1227,16 +1227,16 @@ MultiSend: %1</translation>
         <translation>Welkom</translation>
     </message>
     <message>
-        <source>Welcome to Enox Core.</source>
-        <translation>Welkom bij Enox Core</translation>
+        <source>Welcome to Nodex Core.</source>
+        <translation>Welkom bij Nodex Core</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Enox Core will store its data.</source>
-        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar Enox Core zijn gegevens opslaat.</translation>
+        <source>As this is the first time the program is launched, you can choose where Nodex Core will store its data.</source>
+        <translation>Aangezien dit de eerste keer is dat het programma is gestart, kun je kiezen waar Nodex Core zijn gegevens opslaat.</translation>
     </message>
     <message>
-        <source>Enox Core will download and store a copy of the Enox block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Enox Core zal een kopie van de Enox blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee wordt ook in deze map opgeslagen.</translation>
+        <source>Nodex Core will download and store a copy of the Nodex block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Nodex Core zal een kopie van de Nodex blockchain downloaden en opslaan. Tenminste %1GB aan data zal worden opgeslagen in deze map en het zal over de tijd groeien. De portemonnee wordt ook in deze map opgeslagen.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1247,8 +1247,8 @@ MultiSend: %1</translation>
         <translation>Gebruik een aangepaste data directory:</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Kern</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Kern</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1389,12 +1389,12 @@ MultiSend: %1</translation>
         <translation>Vul het verzendadres in</translation>
     </message>
     <message>
-        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Enox addresses after it matures.
-To Add: enter percentage to give and Enox address to add to the MultiSend vector.
+        <source>MultiSend allows you to automatically send up to 100% of your stake or masternode reward to a list of other Nodex addresses after it matures.
+To Add: enter percentage to give and Nodex address to add to the MultiSend vector.
 To Delete: Enter address to delete and press delete.
 MultiSend will not be activated unless you have clicked Activate</source>
-        <translation>MultiSend stelt je in staat om automatisch 100% van uw inzet of masternode-beloning automatisch te verzenden naar een lijst van andere Enox adressen nadat het volwassen is. 
-Toevoegen: voer percentage in om te geven en Enox adres om toe te voegen aan de MultiSend vector.
+        <translation>MultiSend stelt je in staat om automatisch 100% van uw inzet of masternode-beloning automatisch te verzenden naar een lijst van andere Nodex adressen nadat het volwassen is. 
+Toevoegen: voer percentage in om te geven en Nodex adres om toe te voegen aan de MultiSend vector.
 Verwijderen: Voer adres in om te verwijderen en druk op delete.
 MultiSend wordt niet geactiveerd, tenzij je op Activeer hebt geklikt</translation>
     </message>
@@ -1563,16 +1563,16 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Verduistering configuratie</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Enox te openen.</translation>
+        <source>Obfuscation was successfully set to basic (%1 and 2 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op basic (%1 en 2 rondes). Je kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Nodex te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Enox te openen.</translation>
+        <source>Obfuscation was successfully set to high (%1 and 8 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 8 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Nodex te openen.</translation>
     </message>
     <message>
-        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Enox's configuration screen.</source>
-        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Enox te openen.</translation>
+        <source>Obfuscation was successfully set to maximum (%1 and 16 rounds). You can change this at any time by opening Nodex's configuration screen.</source>
+        <translation>Verduistering is succesvol ingesteld op hoog (%1 en 16 rondes). U kunt dit op elk gewenst moment wijzigen door het configuratiescherm van Nodex te openen.</translation>
     </message>
 </context>
 <context>
@@ -1633,8 +1633,8 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Als je de uitgaven van onbevestigde wijzigingen uitschakelt, de wijziging van een transactie&lt;br/&gt;kan niet worden gebruikt tot die transactie tenminste één bevestiging heeft.&lt;br/&gt;Dit beïnvloedt ook hoe uw saldo is berekend.</translation>
     </message>
     <message>
-        <source>Automatically open the Enox client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Open de Enox client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
+        <source>Automatically open the Nodex client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Open de Nodex client poort automatisch op de router. Dit werkt alleen als je router UPnP ondersteunt en het is ingeschakeld.</translation>
     </message>
     <message>
         <source>Accept connections from outside</source>
@@ -1653,12 +1653,12 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Expert</translation>
     </message>
     <message>
-        <source>Automatically start Enox after logging in to the system.</source>
-        <translation>Enox automatisch opstarten na inloggen op het systeem.</translation>
+        <source>Automatically start Nodex after logging in to the system.</source>
+        <translation>Nodex automatisch opstarten na inloggen op het systeem.</translation>
     </message>
     <message>
-        <source>&amp;Start Enox on system login</source>
-        <translation>&amp;Enox starten bij systeemlogin</translation>
+        <source>&amp;Start Nodex on system login</source>
+        <translation>&amp;Nodex starten bij systeemlogin</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1685,14 +1685,14 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>&amp;Netwerk</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Enox.</source>
-        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van Enox.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Nodex.</source>
+        <translation>De gebruikersinterface taal kan hier ingesteld worden. Deze instelling zal uitgevoerd na herstart van Nodex.</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/enox-project/enox-project-translations</source>
+https://www.transifex.com/nodex-project/nodex-project-translations</source>
         <translation>Taal ontbreekt of vertaling onvolledig? Help om bij te dragen aan vertalingen:
-https://www.transifex.com/enox-project/enox-project-translations</translation>
+https://www.transifex.com/nodex-project/nodex-project-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1715,8 +1715,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Gewenste Automint zENX denominatie</translation>
     </message>
     <message>
-        <source>Connect to the Enox network through a SOCKS5 proxy.</source>
-        <translation>Maak verbinding met het Enox netwerk via een SOCKS5 proxy.</translation>
+        <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
+        <translation>Maak verbinding met het Nodex netwerk via een SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1874,8 +1874,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Staked of masternode beloningen die nog niet volwassen zijn</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Enox network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Enox netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Nodex network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Nodex netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Unconfirmed transactions to watch-only addresses</source>
@@ -1961,12 +1961,12 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Ongeldig betalingsadres %1</translation>
     </message>
     <message>
-        <source>Cannot start enox: click-to-pay handler</source>
-        <translation>Kan enox niet starten: click-to-pay handler</translation>
+        <source>Cannot start nodex: click-to-pay handler</source>
+        <translation>Kan nodex niet starten: click-to-pay handler</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Enox address or malformed URI parameters.</source>
-        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig Enox adres of misvormde URL parameters.</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Nodex address or malformed URI parameters.</source>
+        <translation>URL kan niet ontleed worden! Dit kan worden veroorzaakt door een ongeldig Nodex adres of misvormde URL parameters.</translation>
     </message>
     <message>
         <source>Payment request file cannot be read! This can be caused by an invalid payment request file.</source>
@@ -2059,8 +2059,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Zerocoin Acties:</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Enox network after a connection is established, but this process has not completed yet.</source>
-        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Enox netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Nodex network after a connection is established, but this process has not completed yet.</source>
+        <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Nodex netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
         <source>Enter an amount of Enx to convert to zEnx</source>
@@ -2163,8 +2163,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The Enox address to send the payment to. Creates local payment to yourself when empty.</source>
-        <translation>Het Enox adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
+        <source>The Nodex address to send the payment to. Creates local payment to yourself when empty.</source>
+        <translation>Het Nodex adres om de betaling naar te verzenden. Maakt lokale betaling aan jezelf als je leeg bent.</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2363,8 +2363,8 @@ https://www.transifex.com/enox-project/enox-project-translations</translation>
         <translation>Kopieer hoeveelheid</translation>
     </message>
     <message>
-        <source>Zerocoin functionality is not enabled on the Enox network yet.</source>
-        <translation>Zerocoin functionaliteit is nog niet ingeschakeld op het Enox netwerk.</translation>
+        <source>Zerocoin functionality is not enabled on the Nodex network yet.</source>
+        <translation>Zerocoin functionaliteit is nog niet ingeschakeld op het Nodex netwerk.</translation>
     </message>
     <message>
         <source>Error: Your wallet is locked. Please enter the wallet passphrase first.</source>
@@ -2417,8 +2417,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Geen 'Betaal aan' adres verstrekt, lokale betaling wordt gemaakt</translation>
     </message>
     <message>
-        <source>Invalid Enox Address</source>
-        <translation>Ongeldig Enox addres</translation>
+        <source>Invalid Nodex Address</source>
+        <translation>Ongeldig Nodex addres</translation>
     </message>
     <message>
         <source>Invalid Send Amount</source>
@@ -2509,8 +2509,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Hoeveelheid</translation>
     </message>
     <message>
-        <source>Enter a Enox address (e.g. %1)</source>
-        <translation>Voer een Enox adres in (b.v. %1)</translation>
+        <source>Enter a Nodex address (e.g. %1)</source>
+        <translation>Voer een Nodex adres in (b.v. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -2647,8 +2647,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Blockchain</translation>
     </message>
     <message>
-        <source>Open the Enox debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open het Enox debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
+        <source>Open the Nodex debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open het Nodex debug log bestand uit de huidige data directory. Dit kan enkele seconden duren voor grote logbestanden.</translation>
     </message>
     <message>
         <source>Number of Masternodes</source>
@@ -2815,8 +2815,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Uit:</translation>
     </message>
     <message>
-        <source>Welcome to the Enox RPC console.</source>
-        <translation>Welkom bij de Enox RPC console.</translation>
+        <source>Welcome to the Nodex RPC console.</source>
+        <translation>Welkom bij de Nodex RPC console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -2886,12 +2886,12 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Een optioneel label om te associëren met het nieuwe ontvangstadres.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het Enox netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend. Opmerking: het bericht wordt niet verzonden met de betaling via het Nodex netwerk.</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Enox network.</source>
-        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het Enox netwerk.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened.&lt;br&gt;Note: The message will not be sent with the payment over the Nodex network.</source>
+        <translation>Een optioneel bericht dat aan het betalingsverzoek wordt gehecht, dat wordt weergegeven wanneer het verzoek wordt geopend.&lt;br&gt;Opmerking: het bericht wordt niet verzonden met de betaling via het Nodex netwerk.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -3175,8 +3175,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Als de aangepaste vergoeding is ingesteld op 1000 uENXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uENX's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uENX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Enox transactions than the network can process.</source>
-        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar Enox transacties dan het netwerk kan verwerken.</translation>
+        <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</source>
+        <translation>Alleen de minimale vergoeding betalen is prima, zolang er minder transactie volume is dan ruimte in de blokken. &lt;br /&gt;Maar wees ervan bewust dat dit kan leiden tot een nooit bevestigende transactie wanneer er meer vraag is naar Nodex transacties dan het netwerk kan verwerken.</translation>
     </message>
     <message>
         <source>normal</source>
@@ -3283,8 +3283,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>anonieme financiën</translation>
     </message>
     <message>
-        <source>Warning: Invalid Enox address</source>
-        <translation>Waarschuwing: Ongeldig Enox adres</translation>
+        <source>Warning: Invalid Nodex address</source>
+        <translation>Waarschuwing: Ongeldig Nodex adres</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3390,8 +3390,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Betaal &amp;Naar:</translation>
     </message>
     <message>
-        <source>The Enox address to send the payment to</source>
-        <translation>Het Enox adres om de betaling naar te verzenden</translation>
+        <source>The Nodex address to send the payment to</source>
+        <translation>Het Nodex adres om de betaling naar te verzenden</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3430,8 +3430,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Bericht:</translation>
     </message>
     <message>
-        <source>A message that was attached to the Enox: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Enox network.</source>
-        <translation>Een bericht dat is gehecht aan de Enox: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het Enox netwerk.</translation>
+        <source>A message that was attached to the Nodex: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Nodex network.</source>
+        <translation>Een bericht dat is gehecht aan de Nodex: URI die bij de transactie wordt opgeslagen voor uw referentie. Opmerking: dit bericht wordt niet verzonden via het Nodex netwerk.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -3457,8 +3457,8 @@ Wees alsjeblieft geduldig...</translation>
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Enox Core is shutting down...</source>
-        <translation>Enox Core is aan het afsluiten...</translation>
+        <source>Nodex Core is shutting down...</source>
+        <translation>Nodex Core is aan het afsluiten...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -3480,8 +3480,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Je kunt berichten met je adressen ondertekenen om te bewijzen dat je ze bezit. Wees voorzichtig om niets vaags te ondertekenen, omdat phishing aanvallen je misschien kunnen proberen om je identiteit over te geven. Teken alleen volledig gedetailleerde verklaringen aan waar je mee akkoord gaat.</translation>
     </message>
     <message>
-        <source>The Enox address to sign the message with</source>
-        <translation>Het Enox adres om het bericht met te ondertekenen</translation>
+        <source>The Nodex address to sign the message with</source>
+        <translation>Het Nodex adres om het bericht met te ondertekenen</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -3512,16 +3512,16 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Kopieer de huidige handtekening naar het systeemklembord</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Onderteken het bericht om te bewijzen dat u het Enox adres bezit</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Onderteken het bericht om te bewijzen dat u het Nodex adres bezit</translation>
     </message>
     <message>
-        <source>The Enox address the message was signed with</source>
-        <translation>Het Enox adres waarmee het bericht was ondertekend</translation>
+        <source>The Nodex address the message was signed with</source>
+        <translation>Het Nodex adres waarmee het bericht was ondertekend</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Enox address</source>
-        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde Enox adres</translation>
+        <source>Verify the message to ensure it was signed with the specified Nodex address</source>
+        <translation>Controleer een bericht om te verifiëren dat het ondertekend is door het gespecificeerde Nodex adres</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -3607,8 +3607,8 @@ Wees alsjeblieft geduldig...</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Enox Core</source>
-        <translation>Enox Kern</translation>
+        <source>Nodex Core</source>
+        <translation>Nodex Kern</translation>
     </message>
     <message>
         <source>Version %1</source>
@@ -3623,8 +3623,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>De Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>The Enox Core developers</source>
-        <translation>De Enox Kernontwikkelaars</translation>
+        <source>The Nodex Core developers</source>
+        <translation>De Nodex Kernontwikkelaars</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -4282,7 +4282,7 @@ Wees alsjeblieft geduldig...</translation>
     </message>
 </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     <message>
         <source>(1 = keep tx meta data e.g. account owner and payment request information, 2 = drop tx meta data)</source>
         <translation>(1 = houd tx meta data, bijvoorbeeld account eigenaar en betalingsverzoek informatie, 2 = drop tx meta data)</translation>
@@ -4312,8 +4312,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Het berekende accumulatie controlepunt is niet wat wordt geregistreerd door de blokindex</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Enox Core is probably already running.</source>
-        <translation>Kan geen vergrendeling op data directory %s verkrijgen. Enox Core loopt waarschijnlijk al.</translation>
+        <source>Cannot obtain a lock on data directory %s. Nodex Core is probably already running.</source>
+        <translation>Kan geen vergrendeling op data directory %s verkrijgen. Nodex Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Change automatic finalized budget voting behavior. mode=auto: Vote for only exact finalized budget match to my generated budget. (string, default: auto)</source>
@@ -4332,8 +4332,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Verwijder alle portemonnee transacties en herstel alleen die delen van de blockchain via -rescan bij opstarten</translation>
     </message>
     <message>
-        <source>Disable all Enox specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
-        <translation>Schakel alle Enox specifieke functionaliteit uit (Masternodes, Verduistering, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
+        <source>Disable all Nodex specific functionality (Masternodes, Obfuscation, SwiftTX, Budgeting) (0-1, default: %u)</source>
+        <translation>Schakel alle Nodex specifieke functionaliteit uit (Masternodes, Verduistering, SwiftTX, Budgeting) (0-1, standaard: %u)</translation>
     </message>
     <message>
         <source>Distributed under the MIT software license, see the accompanying file COPYING or &lt;http://www.opensource.org/licenses/mit-license.php&gt;.</source>
@@ -4476,32 +4476,32 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Dit product bevat software ontwikkeld door het OpenSSL Project voor gebruik in de OpenSSL Toolkit &lt;https://www.openssl.org/&gt; en cryptografische software geschreven door Eric Young en UPnP software geschreven door Thomas Bernard.</translation>
     </message>
     <message>
-        <source>To use enoxd, or the -server option to enox-qt, you must set an rpcpassword in the configuration file:
+        <source>To use nodexd, or the -server option to nodex-qt, you must set an rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=enoxrpc
+rpcuser=nodexrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Enox Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Nodex Alert" admin@foo.com
 </source>
-        <translation>Om enoxd of de -server optie om enox-qt te gebruiken, moet je een rpcpassword instellen in het configuratiebestand:
+        <translation>Om nodexd of de -server optie om nodex-qt te gebruiken, moet je een rpcpassword instellen in het configuratiebestand:
 %s
 Het is aan te raden het volgende willekeurige wachtwoord te gebruiken:
-rpcuser=enoxrpc
+rpcuser=nodexrpc
 rpcpassword=%s
 (je hoeft dit wachtwoord niet te onthouden)
 De gebruikersnaam en het wachtwoord MOETEN NIET hetzelfde zijn.
 Als het bestand niet bestaat, creëer het dan met owner-readable-only bestandsrechten.
 Het is ook aan te raden om alertnotify in te stellen, zodat je van problemen op de hoogte wordt gebracht;
-bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
+bijvoorbeeld: alertnotify = echo %%s | mail -s "Nodex Alert" admin@foo.com
 </translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Enox Core is probably already running.</source>
-        <translation>Niet mogelijk te binden aan %s op deze computer. Enox Core loopt waarschijnlijk al.</translation>
+        <source>Unable to bind to %s on this computer. Nodex Core is probably already running.</source>
+        <translation>Niet mogelijk te binden aan %s op deze computer. Nodex Core loopt waarschijnlijk al.</translation>
     </message>
     <message>
         <source>Unable to locate enough Obfuscation denominated funds for this transaction.</source>
@@ -4528,8 +4528,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Waarschuwing: -paytxfee is zeer hoog ingesteld! Dit zijn de transactie kosten die je betaalt als je een transactie verstuurt.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Enox Core will not work properly.</source>
-        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt Enox Core niet goed.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Nodex Core will not work properly.</source>
+        <translation>Waarschuwing: Controleer of de datum en tijd van je computer juist zijn! Als je klok verkeerd staat, werkt Nodex Core niet goed.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -4560,8 +4560,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Je moet een masternodeprivkey opgeven in de configuratie. Raadpleeg de documentatie voor hulp.</translation>
     </message>
     <message>
-        <source>(21001 could be used only on mainnet)</source>
-        <translation>(21001 kan alleen op mainnet worden gebruikt)</translation>
+        <source>(11220 could be used only on mainnet)</source>
+        <translation>(11220 kan alleen op mainnet worden gebruikt)</translation>
     </message>
     <message>
         <source>(default: %s)</source>
@@ -4572,8 +4572,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>(standaard: 1)</translation>
     </message>
     <message>
-        <source>(must be 21001 for mainnet)</source>
-        <translation>(moet 21001 voor mainnet zijn)</translation>
+        <source>(must be 11220 for mainnet)</source>
+        <translation>(moet 11220 voor mainnet zijn)</translation>
     </message>
     <message>
         <source>Accept command line and JSON-RPC commands</source>
@@ -4684,8 +4684,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Copyright (C) 2014-%i The Dash Kernontwikkelaars</translation>
     </message>
     <message>
-        <source>Copyright (C) 2015-%i The Enox Core Developers</source>
-        <translation>Copyright (C) 2015-%i The Enox Kernontwikkelaars</translation>
+        <source>Copyright (C) 2015-%i The Nodex Core Developers</source>
+        <translation>Copyright (C) 2015-%i The Nodex Kernontwikkelaars</translation>
     </message>
     <message>
         <source>Corrupted block database detected</source>
@@ -4764,8 +4764,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Error tijdens het laden van wallet.dat: Portemonnee corrupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Enox Core</source>
-        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Enox Core</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Nodex Core</source>
+        <translation>Fout bij het laden van wallet.dat: Portemonnee vereist een nieuwere versie van Nodex Core</translation>
     </message>
     <message>
         <source>Error opening block database</source>
@@ -4876,8 +4876,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Informatie</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Enox Core is shutting down.</source>
-        <translation>Initialisatie saniteitscontrole mislukt. Enox Core wordt afgesloten.</translation>
+        <source>Initialization sanity check failed. Nodex Core is shutting down.</source>
+        <translation>Initialisatie saniteitscontrole mislukt. Nodex Core wordt afgesloten.</translation>
     </message>
     <message>
         <source>Input is not valid.</source>
@@ -5552,8 +5552,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Enox Alert" admin@foo.com
         <translation>Portemonnee is vergrendeld.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Enox Core to complete</source>
-        <translation>Wallet moest worden herschreven: start Enox Core opnieuw om te voltooien</translation>
+        <source>Wallet needed to be rewritten: restart Nodex Core to complete</source>
+        <translation>Wallet moest worden herschreven: start Nodex Core opnieuw om te voltooien</translation>
     </message>
     <message>
         <source>Wallet options:</source>

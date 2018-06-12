@@ -1,2 +1,2 @@
-usr/local/bin/enoxd usr/bin
-usr/local/bin/enox-cli usr/bin
+usr/local/bin/nodexd usr/bin
+usr/local/bin/nodex-cli usr/bin

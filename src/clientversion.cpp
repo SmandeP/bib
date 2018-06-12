@@ -10,10 +10,10 @@
 
 /**
  * Name of client reported in the 'version' message. Report the same name
- * for both enoxd and enox-qt, to make it harder for attackers to
+ * for both nodexd and nodex-qt, to make it harder for attackers to
  * target servers or GUI users specifically.
  */
-const std::string CLIENT_NAME("Enox Core");
+const std::string CLIENT_NAME("Nodex Core");
 
 /**
  * Client version number

@@ -1,20 +1,20 @@
-.TH ENX-QT "1" "February 2017" "enox-qt 1"
+.TH ENX-QT "1" "February 2017" "nodex-qt 1"
 .SH NAME
-enox-qt \- peer-to-peer network based digital currency
+nodex-qt \- peer-to-peer network based digital currency
 .SH DESCRIPTION
 .SS "Usage:"
 .IP
-enox\-qt [command\-line options]
+nodex\-qt [command\-line options]
 .SH OPTIONS
 .TP
 \-?
 This help message
 .TP
 \fB\-conf=\fR<file>
-Specify configuration file (default: enox.conf)
+Specify configuration file (default: nodex.conf)
 .TP
 \fB\-pid=\fR<file>
-Specify pid file (default: enoxd.pid)
+Specify pid file (default: nodexd.pid)
 .TP
 \fB\-gen\fR
 Generate coins
@@ -41,7 +41,7 @@ Use proxy to reach tor hidden services (default: same as \fB\-proxy\fR)
 Allow DNS lookups for \fB\-addnode\fR, \fB\-seednode\fR and \fB\-connect\fR
 .TP
 \fB\-port=\fR<port>
-Listen for connections on <port> (default: 21001 or testnet: 21003)
+Listen for connections on <port> (default: 11220 or testnet: 11222)
 .TP
 \fB\-maxconnections=\fR<n>
 Maintain at most <n> connections to peers (default: 125)
@@ -122,7 +122,7 @@ Username for JSON\-RPC connections
 Password for JSON\-RPC connections
 .TP
 \fB\-rpcport=\fR<port>
-Listen for JSON\-RPC connections on <port> (default: 21002 or testnet: 21004)
+Listen for JSON\-RPC connections on <port> (default: 11221 or testnet: 11223)
 .TP
 \fB\-rpcallowip=\fR<ip>
 Allow JSON\-RPC connections from specified IP address

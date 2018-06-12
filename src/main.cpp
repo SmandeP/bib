@@ -2,7 +2,7 @@
 // Copyright (c) 2009-2014 The Bitcoin developers
 // Copyright (c) 2014-2015 The Dash developers
 // Copyright (c) 2015-2017 The PIVX developers
-// Copyright (c) 2018 The Enox developers
+// Copyright (c) 2018 The Nodex developers
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -49,7 +49,7 @@ using namespace std;
 using namespace libzerocoin;
 
 #if defined(NDEBUG)
-#error "Enox cannot be compiled without assertions."
+#error "Nodex cannot be compiled without assertions."
 #endif
 
 // 6 comes from OPCODE (1) + vch.size() (1) + BIGNUM size (4)
@@ -2164,15 +2164,15 @@ int64_t GetBlockValue(int nHeight)
     int64_t nSubsidy = 0;
 
     if (nHeight == 0) {
-        nSubsidy = 450001 * COIN;
+        nSubsidy = 1200000 * COIN;
     } else if (nHeight > 0 && nHeight <= 200) {
         nSubsidy = 1 * COIN;
-    } else if (nHeight > 200 && nHeight <= 775600) {
+    } else if (nHeight > 200 && nHeight <= 540000) {
+        nSubsidy = 25 * COIN;
+    } else if (nHeight > 540001 && nHeight <= 850920) {
         nSubsidy = 10 * COIN;
-    } else if (nHeight > 775600 && nHeight <= 1043999) {
+    } else if (nHeight > 850921 && nHeight <= 1562398) {
         nSubsidy = 5 * COIN;
-    } else if (nHeight > 1043999 && nHeight <= 1562398) {
-        nSubsidy = 2 * COIN;
     } else {
         nSubsidy = 1 * COIN;
     }
@@ -2192,7 +2192,7 @@ int64_t GetMasternodePayment(int nHeight, int64_t blockValue, int nMasternodeCou
 	if (nHeight < 5 && nHeight > 0) {
 	    ret = blockValue  / 100 * 0;
 	} else {
-		ret = blockValue  / 100 * 65;
+		ret = blockValue  / 100 * 75;
 
 	}
 
@@ -2493,7 +2493,7 @@ bool DisconnectBlock(CBlock& block, CValidationState& state, CBlockIndex* pindex
         const CTransaction& tx = block.vtx[i];
 
         /** UNDO ZEROCOIN DATABASING
-         * note we only undo zerocoin databasing in the following statement, value to and from Enox
+         * note we only undo zerocoin databasing in the following statement, value to and from Nodex
          * addresses should still be handled by the typical bitcoin based undo code
          * */
         if (tx.ContainsZerocoins()) {
@@ -2626,7 +2626,7 @@ static CCheckQueue<CScriptCheck> scriptcheckqueue(128);
 
 void ThreadScriptCheck()
 {
-    RenameThread("enox-scriptch");
+    RenameThread("nodex-scriptch");
     scriptcheckqueue.Thread();
 }
 
@@ -2753,7 +2753,7 @@ bool RecalculateENXSupply(int nHeightStart)
 
 bool ReindexAccumulators(list<uint256>& listMissingCheckpoints, string& strError)
 {
-    // Enox: recalculate Accumulator Checkpoints that failed to database properly
+    // Nodex: recalculate Accumulator Checkpoints that failed to database properly
     if (!listMissingCheckpoints.empty() && chainActive.Height() >= Params().Zerocoin_StartHeight()) {
         //uiInterface.InitMessage(_("Calculating missing accumulators..."));
         LogPrintf("%s : finding missing checkpoints\n", __func__);
@@ -4062,7 +4062,7 @@ bool CheckBlock(const CBlock& block, CValidationState& state, bool fCheckPOW, bo
                 nHeight = (*mi).second->nHeight + 1;
         }
 
-        // Enox
+        // Nodex
         // It is entierly possible that we don't have enough data and this could fail
         // (i.e. the block could indeed be valid). Store the block for later consideration
         // but issue an initial reject message.
@@ -5570,7 +5570,7 @@ bool static ProcessMessage(CNode* pfrom, string strCommand, CDataStream& vRecv, 
             return false;
         }
 
-        // Enox: We use certain sporks during IBD, so check to see if they are
+        // Nodex: We use certain sporks during IBD, so check to see if they are
         // available. If not, ask the first peer connected for them.
         bool fMissingSporks = !pSporkDB->SporkExists(SPORK_14_NEW_PROTOCOL_ENFORCEMENT) &&
                 !pSporkDB->SporkExists(SPORK_15_NEW_PROTOCOL_ENFORCEMENT_2) &&

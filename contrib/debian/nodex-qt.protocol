@@ -1,6 +1,6 @@
 [Protocol]
-exec=enox-qt '%u'
-protocol=enox
+exec=nodex-qt '%u'
+protocol=nodex
 input=none
 output=none
 helper=true

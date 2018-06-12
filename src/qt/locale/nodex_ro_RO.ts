@@ -186,6 +186,6 @@
     <name>ZEnxControlDialog</name>
     </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     </context>
 </TS>

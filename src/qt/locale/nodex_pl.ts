@@ -227,8 +227,8 @@
         <translation>Zakodowany klucz:</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Enox jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Nodex jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Encrypt &amp;Key</source>
@@ -518,16 +518,16 @@
         <translation>&amp;Pomoc</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>&amp;Rdzeń Enox</translation>
+        <source>Nodex Core</source>
+        <translation>&amp;Rdzeń Nodex</translation>
     </message>
     <message>
-        <source>Send coins to a Enox address</source>
-        <translation>Wyślij monety do adresu Enox</translation>
+        <source>Send coins to a Nodex address</source>
+        <translation>Wyślij monety do adresu Nodex</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and enox: URIs)</source>
-        <translation>Zarządaj płatności (generuje kod QR i enox:URI)</translation>
+        <source>Request payments (generates QR codes and nodex: URIs)</source>
+        <translation>Zarządaj płatności (generuje kod QR i nodex:URI)</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -538,24 +538,24 @@
         <translation>Przeglądaj masternodes</translation>
     </message>
     <message>
-        <source>&amp;About Enox Core</source>
+        <source>&amp;About Nodex Core</source>
         <translation>&amp;O rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Show information about Enox Core</source>
+        <source>Show information about Nodex Core</source>
         <translation>Pokaż informacje o rdzeniu bitcoina</translation>
     </message>
     <message>
-        <source>Modify configuration options for Enox</source>
-        <translation>Modyfikuj opcje konfiguracji Enox</translation>
+        <source>Modify configuration options for Nodex</source>
+        <translation>Modyfikuj opcje konfiguracji Nodex</translation>
     </message>
     <message>
-        <source>Sign messages with your Enox addresses to prove you own them</source>
-        <translation>Zatwierdź wiadomość z twoimi adresami Enox, by udowodnić, że jesteś w ich posiadaniu</translation>
+        <source>Sign messages with your Nodex addresses to prove you own them</source>
+        <translation>Zatwierdź wiadomość z twoimi adresami Nodex, by udowodnić, że jesteś w ich posiadaniu</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Enox addresses</source>
-        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Enox</translation>
+        <source>Verify messages to ensure they were signed with specified Nodex addresses</source>
+        <translation>Zweryfikuj wiadomości by upewnić się, że zostały zatwierdzone z podanego adresu Nodex</translation>
     </message>
     <message>
         <source>&amp;BIP38 tool</source>
@@ -582,7 +582,7 @@
         <translation>Otwórz &amp;Plik konfiguracji Masternode</translation>
     </message>
     <message>
-        <source>Open a Enox: URI or payment request</source>
+        <source>Open a Nodex: URI or payment request</source>
         <translation>OtwórzENXX: URI i żądanie zapłaty</translation>
     </message>
     <message>
@@ -594,12 +594,12 @@
         <translation>Okno eksplorera bloków</translation>
     </message>
     <message>
-        <source>Show the Enox Core help message to get a list with possible Enox command-line options</source>
-        <translation>Pokaż wiadomość pomocy rdzenia Enox, aby dostać listę możliwych opcji Enox command-line</translation>
+        <source>Show the Nodex Core help message to get a list with possible Nodex command-line options</source>
+        <translation>Pokaż wiadomość pomocy rdzenia Nodex, aby dostać listę możliwych opcji Nodex command-line</translation>
     </message>
     <message>
-        <source>Enox Core client</source>
-        <translation>Rdzeń Enox klient</translation>
+        <source>Nodex Core client</source>
+        <translation>Rdzeń Nodex klient</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -912,8 +912,8 @@ MultiWysyłlka: %1</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Enox Core</source>
-        <translation>&amp;Rdzeń Enox</translation>
+        <source>Nodex Core</source>
+        <translation>&amp;Rdzeń Nodex</translation>
     </message>
     </context>
 <context>
@@ -927,8 +927,8 @@ MultiWysyłlka: %1</translation>
         <translation>Użyj niestandardowej ścieżki danych</translation>
     </message>
     <message>
-        <source>Enox Core</source>
-        <translation>&amp;Rdzeń Enox</translation>
+        <source>Nodex Core</source>
+        <translation>&amp;Rdzeń Nodex</translation>
     </message>
     <message>
         <source>Error</source>
@@ -1188,12 +1188,12 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>Zezwól na przychodzące połączenia</translation>
     </message>
     <message>
-        <source>Automatically start Enox after logging in to the system.</source>
-        <translation>Automatycznie uruchom Enox po zalogowaniu do systemu</translation>
+        <source>Automatically start Nodex after logging in to the system.</source>
+        <translation>Automatycznie uruchom Nodex po zalogowaniu do systemu</translation>
     </message>
     <message>
-        <source>&amp;Start Enox on system login</source>
-        <translation>&amp;Uruchom Enox podczas logowania do systemu</translation>
+        <source>&amp;Start Nodex on system login</source>
+        <translation>&amp;Uruchom Nodex podczas logowania do systemu</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -1212,18 +1212,18 @@ Proszę sprawdzić adres i spróbować ponownie</translation>
         <translation>&amp;Sieć</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Enox.</source>
-        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Enox</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Nodex.</source>
+        <translation>Język interfejsu użytkownika może być wybrany tutaj. Ustawienia ulegną zmianie po restarcie Nodex</translation>
     </message>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
-https://www.transifex.com/enox-project/enox-project-translations</source>
+https://www.transifex.com/nodex-project/nodex-project-translations</source>
         <translation>Brakuje języka bądź nieukończona pełnego tłumaczenia? Pomóż w tłumaczeniu tutaj:
-https://www.transifex.com/enox-project/enox-project-translations </translation>
+https://www.transifex.com/nodex-project/nodex-project-translations </translation>
     </message>
     <message>
-        <source>Connect to the Enox network through a SOCKS5 proxy.</source>
-        <translation>Połącz z siecią Enox poprzez SOCKS5 proxy.</translation>
+        <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
+        <translation>Połącz z siecią Nodex poprzez SOCKS5 proxy.</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
@@ -1461,8 +1461,8 @@ https://www.transifex.com/enox-project/enox-project-translations </translation>
         <translation>Liczba</translation>
     </message>
     <message>
-        <source>Enter a Enox address (e.g. %1)</source>
-        <translation>Wprowadź adres Enox (np. %1)</translation>
+        <source>Enter a Nodex address (e.g. %1)</source>
+        <translation>Wprowadź adres Nodex (np. %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1900,8 +1900,8 @@ https://www.transifex.com/enox-project/enox-project-translations </translation>
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Enox address</source>
-        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Enox jest w twoim posiadaniu</translation>
+        <source>Sign the message to prove you own this Nodex address</source>
+        <translation>Zatwierdź wiadomość, aby udowodnić, że podany adres Nodex jest w twoim posiadaniu</translation>
     </message>
     <message>
         <source>Clear &amp;All</source>
@@ -1935,8 +1935,8 @@ https://www.transifex.com/enox-project/enox-project-translations </translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Enox Core</source>
-        <translation>&amp;Rdzeń Enox</translation>
+        <source>Nodex Core</source>
+        <translation>&amp;Rdzeń Nodex</translation>
     </message>
     </context>
 <context>
@@ -2034,7 +2034,7 @@ https://www.transifex.com/enox-project/enox-project-translations </translation>
     </message>
     </context>
 <context>
-    <name>enox-core</name>
+    <name>nodex-core</name>
     <message>
         <source>Error</source>
         <translation>Błąd</translation>

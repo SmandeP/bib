@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Enox"
-            VALUE "FileDescription",    "Enox-cli (OSS RPC client for Enox)"
+            VALUE "CompanyName",        "Nodex"
+            VALUE "FileDescription",    "Nodex-cli (OSS RPC client for Nodex)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "enox-cli"
+            VALUE "InternalName",       "nodex-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "enox-cli.exe"
-            VALUE "ProductName",        "Enox-cli"
+            VALUE "OriginalFilename",   "nodex-cli.exe"
+            VALUE "ProductName",        "Nodex-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

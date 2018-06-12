@@ -66,15 +66,15 @@ bin_PROGRAMS =
 TESTS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += enoxd
+  bin_PROGRAMS += nodexd
 endif
 
 if BUILD_BITCOIN_UTILS
-  bin_PROGRAMS += enox-cli enox-tx
+  bin_PROGRAMS += nodex-cli nodex-tx
 endif
 
 .PHONY: FORCE
-# enox core #
+# nodex core #
 BITCOIN_CORE_H = \
   activemasternode.h \
   accumulators.h \
@@ -190,7 +190,7 @@ obj/build.h: FORCE
 	  $(abs_top_srcdir)
 libbitcoin_util_a-clientversion.$(OBJEXT): obj/build.h
 
-# server: shared between enoxd and enox-qt
+# server: shared between nodexd and nodex-qt
 libbitcoin_server_a_CPPFLAGS = $(BITCOIN_INCLUDES) $(MINIUPNPC_CPPFLAGS) $(EVENT_CFLAGS) $(EVENT_PTHREADS_CFLAGS)
 libbitcoin_server_a_SOURCES = \
   addrman.cpp \
@@ -236,7 +236,7 @@ libbitcoin_zmq_a_SOURCES = \
   zmq/zmqpublishnotifier.cpp
 endif
 
-# wallet: shared between enoxd and enox-qt, but only linked
+# wallet: shared between nodexd and nodex-qt, but only linked
 # when wallet enabled
 
 libbitcoin_wallet_a_CFLAGS = -fPIC
@@ -332,7 +332,7 @@ libzerocoin_libbitcoin_zerocoin_a_SOURCES = \
   libzerocoin/Params.cpp \
   libzerocoin/SerialNumberSignatureOfKnowledge.cpp
 
-# common: shared between enoxd, and enox-qt and non-server tools
+# common: shared between nodexd, and nodex-qt and non-server tools
 libbitcoin_common_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_common_a_SOURCES = \
   accumulators.cpp \
@@ -392,7 +392,7 @@ libbitcoin_util_a_SOURCES += compat/glibc_compat.cpp
 libbitcoin_util_a_SOURCES += compat/glibcxx_compat.cpp
 endif
 
-# cli: shared between enox-cli and enox-qt
+# cli: shared between nodex-cli and nodex-qt
 libbitcoin_cli_a_CPPFLAGS = $(BITCOIN_INCLUDES)
 libbitcoin_cli_a_SOURCES = \
   rpcclient.cpp \
@@ -402,7 +402,7 @@ nodist_libbitcoin_util_a_SOURCES = $(srcdir)/obj/build.h
 #
 
 # bitcoind binary #
-enoxd_LDADD = \
+nodexd_LDADD = \
   $(LIBBITCOIN_SERVER) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_UNIVALUE) \
@@ -414,26 +414,26 @@ enoxd_LDADD = \
   $(LIBSECP256K1)
 
 if ENABLE_ZMQ
-enoxd_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
+nodexd_LDADD += $(LIBBITCOIN_ZMQ) $(ZMQ_LIBS)
 endif
 
 if ENABLE_WALLET
-enoxd_LDADD += libbitcoin_wallet.a
+nodexd_LDADD += libbitcoin_wallet.a
 endif
-enoxd_SOURCES = enoxd.cpp
+nodexd_SOURCES = nodexd.cpp
 #
 
 if TARGET_WINDOWS
-enoxd_SOURCES += enoxd-res.rc
+nodexd_SOURCES += nodexd-res.rc
 endif
 
-enoxd_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS)
-enoxd_CPPFLAGS = $(BITCOIN_INCLUDES)
-enoxd_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+nodexd_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS) $(MINIUPNPC_LIBS) $(EVENT_PTHREADS_LIBS) $(EVENT_LIBS)
+nodexd_CPPFLAGS = $(BITCOIN_INCLUDES)
+nodexd_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 
-# enox-cli binary #
-enox_cli_LDADD = \
+# nodex-cli binary #
+nodex_cli_LDADD = \
   $(LIBBITCOIN_CLI) \
   $(LIBBITCOIN_UTIL) \
   $(BOOST_LIBS) \
@@ -441,14 +441,14 @@ enox_cli_LDADD = \
   $(CRYPTO_LIBS) \
   $(EVENT_LIBS)
 
-enox_cli_SOURCES = \
-  enox-cli.cpp
+nodex_cli_SOURCES = \
+  nodex-cli.cpp
 
-enox_cli_CPPFLAGS = $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
+nodex_cli_CPPFLAGS = $(BITCOIN_INCLUDES) $(EVENT_CFLAGS)
 #
 
-# enox-tx binary #
-enox_tx_LDADD = \
+# nodex-tx binary #
+nodex_tx_LDADD = \
   $(LIBBITCOIN_UNIVALUE) \
   $(LIBBITCOIN_COMMON) \
   $(LIBBITCOIN_ZEROCOIN) \
@@ -458,15 +458,15 @@ enox_tx_LDADD = \
   $(BOOST_LIBS) \
   $(CRYPTO_LIBS)
 
-enox_tx_SOURCES = enox-tx.cpp
-enox_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
+nodex_tx_SOURCES = nodex-tx.cpp
+nodex_tx_CPPFLAGS = $(BITCOIN_INCLUDES)
 #
-enox_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+nodex_tx_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if TARGET_WINDOWS
-enox_cli_SOURCES += enox-cli-res.rc
+nodex_cli_SOURCES += nodex-cli-res.rc
 endif
-enox_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
+nodex_cli_LDFLAGS = $(RELDFLAGS) $(AM_LDFLAGS) $(LIBTOOL_APP_LDFLAGS)
 
 if BUILD_BITCOIN_LIBS
 include_HEADERS = script/bitcoinconsensus.h

@@ -1,19 +1,19 @@
 [Unit]
-Description=Enox's distributed currency daemon
+Description=Nodex's distributed currency daemon
 After=network.target
 
 [Service]
-User=enox
-Group=enox
+User=nodex
+Group=nodex
 
 Type=forking
-PIDFile=/var/lib/enoxd/enoxd.pid
+PIDFile=/var/lib/nodexd/nodexd.pid
 
-ExecStart=/usr/bin/enoxd -daemon -pid=/var/lib/enoxd/enoxd.pid \
-          -conf=/etc/enox/enox.conf -datadir=/var/lib/enoxd
+ExecStart=/usr/bin/nodexd -daemon -pid=/var/lib/nodexd/nodexd.pid \
+          -conf=/etc/nodex/nodex.conf -datadir=/var/lib/nodexd
 
-ExecStop=-/usr/bin/enox-cli -conf=/etc/enox/enox.conf \
-         -datadir=/var/lib/enoxd stop
+ExecStop=-/usr/bin/nodex-cli -conf=/etc/nodex/nodex.conf \
+         -datadir=/var/lib/nodexd stop
 
 Restart=always
 PrivateTmp=true
