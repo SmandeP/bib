@@ -2,20 +2,20 @@
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#include "zenxcontroldialog.h"
-#include "ui_zenxcontroldialog.h"
+#include "zdxdcontroldialog.h"
+#include "ui_zdxdcontroldialog.h"
 
 #include "main.h"
 #include "walletmodel.h"
 
 using namespace std;
 
-std::list<std::string> ZEnxControlDialog::listSelectedMints;
-std::list<CZerocoinMint> ZEnxControlDialog::listMints;
+std::list<std::string> ZDxdControlDialog::listSelectedMints;
+std::list<CZerocoinMint> ZDxdControlDialog::listMints;
 
-ZEnxControlDialog::ZEnxControlDialog(QWidget *parent) :
+ZDxdControlDialog::ZDxdControlDialog(QWidget *parent) :
     QDialog(parent),
-    ui(new Ui::ZEnxControlDialog),
+    ui(new Ui::ZDxdControlDialog),
     model(0)
 {
     ui->setupUi(this);
@@ -29,19 +29,19 @@ ZEnxControlDialog::ZEnxControlDialog(QWidget *parent) :
     connect(ui->pushButtonAll, SIGNAL(clicked()), this, SLOT(ButtonAllClicked()));
 }
 
-ZEnxControlDialog::~ZEnxControlDialog()
+ZDxdControlDialog::~ZDxdControlDialog()
 {
     delete ui;
 }
 
-void ZEnxControlDialog::setModel(WalletModel *model)
+void ZDxdControlDialog::setModel(WalletModel *model)
 {
     this->model = model;
     updateList();
 }
 
 //Update the tree widget
-void ZEnxControlDialog::updateList()
+void ZDxdControlDialog::updateList()
 {
     // need to prevent the slot from being called each time something is changed
     ui->treeWidget->blockSignals(true);
@@ -130,7 +130,7 @@ void ZEnxControlDialog::updateList()
 }
 
 // Update the list when a checkbox is clicked
-void ZEnxControlDialog::updateSelection(QTreeWidgetItem* item, int column)
+void ZDxdControlDialog::updateSelection(QTreeWidgetItem* item, int column)
 {
     // only want updates from non top level items that are available to spend
     if (item->parent() && column == COLUMN_CHECKBOX && !item->isDisabled()){
@@ -153,7 +153,7 @@ void ZEnxControlDialog::updateSelection(QTreeWidgetItem* item, int column)
 }
 
 // Update the Quantity and Amount display
-void ZEnxControlDialog::updateLabels()
+void ZDxdControlDialog::updateLabels()
 {
     int64_t nAmount = 0;
     for (const CZerocoinMint mint : listMints) {
@@ -163,14 +163,14 @@ void ZEnxControlDialog::updateLabels()
     }
 
     //update this dialog's labels
-    ui->labelZEnx_int->setText(QString::number(nAmount));
+    ui->labelZDxd_int->setText(QString::number(nAmount));
     ui->labelQuantity_int->setText(QString::number(listSelectedMints.size()));
 
     //update PrivacyDialog labels
-    privacyDialog->setZEnxControlLabels(nAmount, listSelectedMints.size());
+    privacyDialog->setZDxdControlLabels(nAmount, listSelectedMints.size());
 }
 
-std::vector<CZerocoinMint> ZEnxControlDialog::GetSelectedMints()
+std::vector<CZerocoinMint> ZDxdControlDialog::GetSelectedMints()
 {
     std::vector<CZerocoinMint> listReturn;
     for (const CZerocoinMint mint : listMints) {
@@ -183,7 +183,7 @@ std::vector<CZerocoinMint> ZEnxControlDialog::GetSelectedMints()
 }
 
 // select or deselect all of the mints
-void ZEnxControlDialog::ButtonAllClicked()
+void ZDxdControlDialog::ButtonAllClicked()
 {
     ui->treeWidget->blockSignals(true);
     Qt::CheckState state = Qt::Checked;

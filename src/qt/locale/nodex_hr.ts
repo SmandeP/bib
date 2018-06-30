@@ -535,8 +535,8 @@
         <translation>ne</translation>
     </message>
     <message>
-        <source>0 ENX</source>
-        <translation>0 ENX</translation>
+        <source>0 DXD</source>
+        <translation>0 DXD</translation>
     </message>
     <message>
         <source>Confirmation time:</source>
@@ -783,7 +783,7 @@
     </message>
     </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

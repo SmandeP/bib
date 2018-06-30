@@ -148,8 +148,8 @@
         <translation>Czy na pewno chcesz zakodować portfel?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE ENX!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>Ostrzeżenie: Jeżeli zakodujesz portfel i stracisz do niego hasło , UTRACISZ WSZYSTKIE DXD!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -583,7 +583,7 @@
     </message>
     <message>
         <source>Open a Nodex: URI or payment request</source>
-        <translation>OtwórzENXX: URI i żądanie zapłaty</translation>
+        <translation>OtwórzDXDX: URI i żądanie zapłaty</translation>
     </message>
     <message>
         <source>&amp;Blockchain explorer</source>
@@ -2027,7 +2027,7 @@ https://www.transifex.com/nodex-project/nodex-project-translations </translation
     </message>
     </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

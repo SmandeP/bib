@@ -168,16 +168,16 @@
         <translation>Confirma l'encriptació del moneder</translation>
     </message>
     <message>
-        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Nodex es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus ENX de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DXDs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex es tancarà per finalitzar el procés d'encriptació. Recorda que encriptant el teu moneder no protegeix els teus DXD de ser robats si el teu ordinador està infectat amb programari maliciós.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Estàs segur que vols encriptar el moneder?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES ENXS&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>Avís: Si encripteu el vostre moneder i perdeu la contrasenya, &lt;b&gt;PERDREU TOTS ELS VOSTRES DXDS&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -1142,24 +1142,24 @@
         <translation>Si us plau, selecciona un nivell de privacitat.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Utilitza 2 masternodes diferents per mesclar fons de fins a 10000 ENX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Utilitza 2 masternodes diferents per mesclar fons de fins a 10000 DXD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Utilitza 8 masternodes diferents per mesclar fons de fins a 10000 ENX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Utilitza 8 masternodes diferents per mesclar fons de fins a 10000 DXD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utilitza 16 masternodes diferents</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 ENX per anonimitzar 10000 ENX</translation>
+        <source>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</source>
+        <translation>Aquesta opció és la més ràpida i té un cost d'uns ~0.025 DXD per anonimitzar 10000 DXD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 ENX per anonimitzar 10000 ENX</translation>
+        <source>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</source>
+        <translation>Aquesta opció és moderadament ràpida i té un cost d'uns 0.05 DXD per anonimitzar 10000 DXD</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1271,12 +1271,12 @@
         <translation>Total:</translation>
     </message>
     <message>
-        <source>ENX:</source>
-        <translation>ENX:</translation>
+        <source>DXD:</source>
+        <translation>DXD:</translation>
     </message>
     <message>
-        <source>zENX:</source>
-        <translation>zENX:</translation>
+        <source>zDXD:</source>
+        <translation>zDXD:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -1304,20 +1304,20 @@
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>Zerocoin ENX (zENX)</source>
-        <translation>Zerocoin ENX (zENX)</translation>
+        <source>Zerocoin DXD (zDXD)</source>
+        <translation>Zerocoin DXD (zDXD)</translation>
     </message>
     <message>
         <source>0</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zENX</source>
-        <translation>zENX</translation>
+        <source>zDXD</source>
+        <translation>zDXD</translation>
     </message>
     <message>
-        <source>0.000 000 00 ENX</source>
-        <translation>0.000 000 00 ENX</translation>
+        <source>0.000 000 00 DXD</source>
+        <translation>0.000 000 00 DXD</translation>
     </message>
     <message>
         <source>Reset</source>
@@ -1332,8 +1332,8 @@
         <translation>Import:</translation>
     </message>
     <message>
-        <source>0 zENX</source>
-        <translation>0 zENX</translation>
+        <source>0 zDXD</source>
+        <translation>0 zDXD</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1969,7 +1969,7 @@
     </message>
     </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
         <source>Quantity</source>
         <translation>Quantitat</translation>
@@ -1979,8 +1979,8 @@
         <translation>0</translation>
     </message>
     <message>
-        <source>zEnx</source>
-        <translation>zEnx</translation>
+        <source>zDxd</source>
+        <translation>zDxd</translation>
     </message>
     </context>
 <context>

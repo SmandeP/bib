@@ -109,15 +109,15 @@
     <name>AskPassphraseDialog</name>
     <message>
         <source>Enter passphrase</source>
-        <translation>Entrer la enxase secrète</translation>
+        <translation>Entrer la dxdase secrète</translation>
     </message>
     <message>
         <source>New passphrase</source>
-        <translation>Nouvelle enxase secrète</translation>
+        <translation>Nouvelle dxdase secrète</translation>
     </message>
     <message>
         <source>Repeat new passphrase</source>
-        <translation>Confirmer la nouvelle enxase secrète</translation>
+        <translation>Confirmer la nouvelle dxdase secrète</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -125,7 +125,7 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to unlock the wallet.</source>
-        <translation>Cette opération requiert votre enxase secrète pour déverrouiller votre portefeuille.</translation>
+        <translation>Cette opération requiert votre dxdase secrète pour déverrouiller votre portefeuille.</translation>
     </message>
     <message>
         <source>Unlock wallet</source>
@@ -133,7 +133,7 @@
     </message>
     <message>
         <source>This operation needs your wallet passphrase to decrypt the wallet.</source>
-        <translation>Cette opération nécessite votre enxase secrète de portefeuille pour décrypter le portefeuille </translation>
+        <translation>Cette opération nécessite votre dxdase secrète de portefeuille pour décrypter le portefeuille </translation>
     </message>
     <message>
         <source>Decrypt wallet</source>
@@ -141,27 +141,27 @@
     </message>
     <message>
         <source>Change passphrase</source>
-        <translation>Changer la enxase secrète</translation>
+        <translation>Changer la dxdase secrète</translation>
     </message>
     <message>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Entrer l'ancienne et la nouvelle enxase secrète dans le portefeuille</translation>
+        <translation>Entrer l'ancienne et la nouvelle dxdase secrète dans le portefeuille</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
         <translation>Confirmer le cryptage du portefeuille</translation>
     </message>
     <message>
-        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Nodex va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos ENXs d'un vol par un malware ayant infecté votre ordinateur. </translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DXDs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex va maintenant se fermer pour finir le processus cryptage. Notez que le cryptage de votre portefeuille ne peut pas complètement protéger vos DXDs d'un vol par un malware ayant infecté votre ordinateur. </translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Êtes-vous sûr de vouloir crypter votre portefeuille?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>Attention : si vous cryptez votre portefeuille et perdez votre enxase secrète, vous &lt;b&gt;PERDREZ TOUS VOS ENX&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>Attention : si vous cryptez votre portefeuille et perdez votre dxdase secrète, vous &lt;b&gt;PERDREZ TOUS VOS DXD&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -177,7 +177,7 @@
     </message>
     <message>
         <source>The supplied passphrases do not match.</source>
-        <translation>Les enxases secrètes fournies ne correspondent pas.</translation>
+        <translation>Les dxdases secrètes fournies ne correspondent pas.</translation>
     </message>
     <message>
         <source>Wallet unlock failed</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>The passphrase entered for the wallet decryption was incorrect.</source>
-        <translation>La enxase secrète entrée pour le décryptage de votre portefeuille était incorrecte.</translation>
+        <translation>La dxdase secrète entrée pour le décryptage de votre portefeuille était incorrecte.</translation>
     </message>
     <message>
         <source>Wallet decryption failed</source>
@@ -193,7 +193,7 @@
     </message>
     <message>
         <source>Wallet passphrase was successfully changed.</source>
-        <translation>La enxase secrète de votre portefeuille a été changée avec succès.</translation>
+        <translation>La dxdase secrète de votre portefeuille a été changée avec succès.</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <source>Enter a Nodex Address that you would like to encrypt using BIP 38. Enter a passphrase in the middle box. Press encrypt to compute the encrypted private key.</source>
-        <translation>Entrez une adresse Nodex que vous voulez crypter en utilisant BIP 38. Entrez une enxase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
+        <translation>Entrez une adresse Nodex que vous voulez crypter en utilisant BIP 38. Entrez une dxdase secrète dans le champ du milieu. Cliquez sur crypter pour calculer la clé de cryptage privée.</translation>
     </message>
     <message>
         <source>Address:</source>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>Passphrase: </source>
-        <translation>Enxase secrète :</translation>
+        <translation>Dxdase secrète :</translation>
     </message>
     <message>
         <source>Encrypted Key:</source>
@@ -296,7 +296,7 @@
     </message>
     <message>
         <source>The entered passphrase is invalid. </source>
-        <translation>La enxase secrète entrée est incorrect.</translation>
+        <translation>La dxdase secrète entrée est incorrect.</translation>
     </message>
     <message>
         <source>Allowed: 0-9,a-z,A-Z,</source>
@@ -328,7 +328,7 @@
     </message>
     <message>
         <source>Please check the key and passphrase and try again.</source>
-        <translation>Veuillez vérifier la clé et la enxase secrète et réessayer.</translation>
+        <translation>Veuillez vérifier la clé et la dxdase secrète et réessayer.</translation>
     </message>
     <message>
         <source>Data Not Valid.</source>
@@ -423,11 +423,11 @@
     </message>
     <message>
         <source>&amp;Change Passphrase...</source>
-        <translation>Changer la enxase de sécurité...</translation>
+        <translation>Changer la dxdase de sécurité...</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
-        <translation>Changer la enxase secrète utilisée pour l'encryptage du portefeuille</translation>
+        <translation>Changer la dxdase secrète utilisée pour l'encryptage du portefeuille</translation>
     </message>
     <message>
         <source>&amp;Unlock Wallet...</source>
@@ -563,7 +563,7 @@
     </message>
     <message>
         <source>Encrypt and decrypt private keys using a passphrase</source>
-        <translation>Crypter et décrypter les clés privées en utilisant une enxase secrète</translation>
+        <translation>Crypter et décrypter les clés privées en utilisant une dxdase secrète</translation>
     </message>
     <message>
         <source>Synchronizing with network...</source>
@@ -1038,32 +1038,32 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Veuillez sélectionner un niveau de confidentialité.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 ENX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Utiliser 2 masternodes différentes pour mélanger les fonds jusqu'a 10000 DXD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 ENX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Utiliser 8 masternodes différentes pour mélanger les fonds jusqu'a 10000 DXD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Utiliser 16 masternodes différentes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>Cette option est la plus rapide, et coutera ~0.025 ENX pour anonymiser 10000 ENX</translation>
+        <source>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</source>
+        <translation>Cette option est la plus rapide, et coutera ~0.025 DXD pour anonymiser 10000 DXD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>Cette option est moyennement rapide, et coutera 0.05 ENX pour anonymiser 10000 ENX</translation>
+        <source>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</source>
+        <translation>Cette option est moyennement rapide, et coutera 0.05 DXD pour anonymiser 10000 DXD</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Il s'agit de l'option la plus lente est la plus sécurisé. Utiliser l'anonymat maximum coutera</translation>
     </message>
     <message>
-        <source>0.1 ENX per 10000 ENX you anonymize.</source>
-        <translation>0.1 ENX par 10000 ENX vous anonymisez.</translation>
+        <source>0.1 DXD per 10000 DXD you anonymize.</source>
+        <translation>0.1 DXD par 10000 DXD vous anonymisez.</translation>
     </message>
     </context>
 <context>
@@ -1433,8 +1433,8 @@ Veuillez vérifier l'adresse et réessayer.</translation>
         <translation>Après commission</translation>
     </message>
     <message>
-        <source>0 ENX</source>
-        <translation>0 ENX</translation>
+        <source>0 DXD</source>
+        <translation>0 DXD</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -1801,7 +1801,7 @@ Veuillez vérifier l'adresse et réessayer.</translation>
     </message>
     </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
         <source>0</source>
         <translation>0</translation>

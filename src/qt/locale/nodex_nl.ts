@@ -176,16 +176,16 @@
         <translation>Bevestig versleuteling van de portemonnee</translation>
     </message>
     <message>
-        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>Nodex zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw ENXs stelen.</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DXDs from being stolen by malware infecting your computer.</source>
+        <translation>Nodex zal nu afsluiten om het versleutelingsproces te voltooien. Onthoud dat het versleutelen van uw portemonnee u niet volledig kan beschermen: Malware kan uw computer infecteren en uw DXDs stelen.</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>Weet u zeker dat u uw portemonnee wilt versleutelen?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW ENX VERLIEZEN&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>Waarschuwing: Als u uw portemonnee versleutelt en uw wachtwoord vergeet, zult u &lt;b&gt;AL UW DXD VERLIEZEN&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -618,8 +618,8 @@
         <translation>&amp;Privacy</translation>
     </message>
     <message>
-        <source>Privacy Action for zENX and Obfuscation</source>
-        <translation>Privacy Actie voor zENX en verduistering</translation>
+        <source>Privacy Action for zDXD and Obfuscation</source>
+        <translation>Privacy Actie voor zDXD en verduistering</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -1531,32 +1531,32 @@ Controleer het adres alsjeblieft en probeer het opnieuw.</translation>
         <translation>Selecteer de privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 ENX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Gebruik 2 aparte masternodes om fondsen te mixen tot 10000 DXD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 ENX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Gebruik 8 aparte masternodes om fondsen te mixen tot 10000 DXD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Gebruik 16 aparte masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>Deze optie is het snelst en kost ongeveer ~0,025 ENX om 10000 ENX te anonimiseren</translation>
+        <source>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</source>
+        <translation>Deze optie is het snelst en kost ongeveer ~0,025 DXD om 10000 DXD te anonimiseren</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 ENX om 10000 ENX te anonimiseren</translation>
+        <source>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</source>
+        <translation>Deze optie is gematigd snel en kost ongeveer 0,05 DXD om 10000 DXD te anonimiseren</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>Dit is de langzaamste en veiligste optie. Het gebruik van maximale anonimiteit kost</translation>
     </message>
     <message>
-        <source>0.1 ENX per 10000 ENX you anonymize.</source>
-        <translation>je anonimiseert 0,1 ENX per 10000 ENX.</translation>
+        <source>0.1 DXD per 10000 DXD you anonymize.</source>
+        <translation>je anonimiseert 0,1 DXD per 10000 DXD.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1699,20 +1699,20 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Map poort gebruikt &amp;UPnP</translation>
     </message>
     <message>
-        <source>Percentage of incoming ENX which get automatically converted to zENX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Percentage inkomende ENX die automatisch wordt omgezet naar zENX via Zerocoin Protocol (min: 10%)</translation>
+        <source>Percentage of incoming DXD which get automatically converted to zDXD via Zerocoin Protocol (min: 10%)</source>
+        <translation>Percentage inkomende DXD die automatisch wordt omgezet naar zDXD via Zerocoin Protocol (min: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zENX</source>
-        <translation>Percentage autominted zENX</translation>
+        <source>Percentage of autominted zDXD</source>
+        <translation>Percentage autominted zDXD</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough ENX for this denomination is available</source>
-        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg ENX voor deze denominatie beschikbaar is</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough DXD for this denomination is available</source>
+        <translation>Wacht met automatische omzetting naar Zerocoin totdat er genoeg DXD voor deze denominatie beschikbaar is</translation>
     </message>
     <message>
-        <source>Preferred Automint zENX Denomination</source>
-        <translation>Gewenste Automint zENX denominatie</translation>
+        <source>Preferred Automint zDXD Denomination</source>
+        <translation>Gewenste Automint zDXD denominatie</translation>
     </message>
     <message>
         <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
@@ -1846,8 +1846,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Formulier</translation>
     </message>
     <message>
-        <source>ENX Balances</source>
-        <translation>ENX Saldi</translation>
+        <source>DXD Balances</source>
+        <translation>DXD Saldi</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1914,12 +1914,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Gecombineerde Saldi (inclusief onvolwassen munten)</translation>
     </message>
     <message>
-        <source>ENX:</source>
-        <translation>ENX:</translation>
+        <source>DXD:</source>
+        <translation>DXD:</translation>
     </message>
     <message>
-        <source>zENX:</source>
-        <translation>zENX:</translation>
+        <source>zDXD:</source>
+        <translation>zDXD:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -2047,12 +2047,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>ENX which were anonymized via Zerocin Protocol</source>
-        <translation>ENX die via het Zerocin Protocol geanonimiseerd werden</translation>
+        <source>DXD which were anonymized via Zerocin Protocol</source>
+        <translation>DXD die via het Zerocin Protocol geanonimiseerd werden</translation>
     </message>
     <message>
-        <source>Zerocoin ENX (zENX)</source>
-        <translation>Zerocoin ENX (zENX)</translation>
+        <source>Zerocoin DXD (zDXD)</source>
+        <translation>Zerocoin DXD (zDXD)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -2063,8 +2063,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>De weergegeven informatie kan verouderd zijn. Je portemonnee synchroniseert automatisch met het Nodex netwerk nadat een verbinding is opgezet, maar dit proces is nog niet afgerond.</translation>
     </message>
     <message>
-        <source>Enter an amount of Enx to convert to zEnx</source>
-        <translation>Vul de hoeveleheid in om Enx te converteren naar zEnx</translation>
+        <source>Enter an amount of Dxd to convert to zDxd</source>
+        <translation>Vul de hoeveleheid in om Dxd te converteren naar zDxd</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2075,16 +2075,16 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zENX</source>
-        <translation>zENX</translation>
+        <source>zDXD</source>
+        <translation>zDXD</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
         <translation>Beschikbaar voor minting:</translation>
     </message>
     <message>
-        <source>0.000 000 00 ENX</source>
-        <translation>0.000 000 00 ENX</translation>
+        <source>0.000 000 00 DXD</source>
+        <translation>0.000 000 00 DXD</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2119,12 +2119,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Status en/of Berichten van de laatste mint actie.</translation>
     </message>
     <message>
-        <source>zEnx Control</source>
-        <translation>zEnx controle</translation>
+        <source>zDxd Control</source>
+        <translation>zDxd controle</translation>
     </message>
     <message>
-        <source>zEnx Selected:</source>
-        <translation>zEnx geselecteerd:</translation>
+        <source>zDxd Selected:</source>
+        <translation>zDxd geselecteerd:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2143,8 +2143,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Beschikbaar saldo:</translation>
     </message>
     <message>
-        <source>0 zENX</source>
-        <translation>0 zENX</translation>
+        <source>0 zDXD</source>
+        <translation>0 zDXD</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2383,8 +2383,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Succesvol gemint</translation>
     </message>
     <message>
-        <source> zENX in </source>
-        <translation> zENX in </translation>
+        <source> zDXD in </source>
+        <translation> zDXD in </translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2462,8 +2462,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Bestede Zerocoin mislukt met status =</translation>
     </message>
     <message>
-        <source>zEnx Spend #: </source>
-        <translation>zEnx besteed #: </translation>
+        <source>zDxd Spend #: </source>
+        <translation>zDxd besteed #: </translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2486,8 +2486,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>adres:</translation>
     </message>
     <message>
-        <source>zEnx Mint</source>
-        <translation>zEnx Mint</translation>
+        <source>zDxd Mint</source>
+        <translation>zDxd Mint</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
@@ -3115,8 +3115,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>UTXO grootte:</translation>
     </message>
     <message>
-        <source>0 ENX</source>
-        <translation>0 ENX</translation>
+        <source>0 DXD</source>
+        <translation>0 DXD</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3167,12 +3167,12 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Munten automatisch geselecteerd</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uENXs in fee,&lt;br /&gt;while "at least" pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uENXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uENX's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uENX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDXDs in fee,&lt;br /&gt;while "at least" pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uDXDs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uDXD's in vergoeding,&lt;br /&gt;terwijl "minstens" 1000 uDXD's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uENXs in fee,&lt;br /&gt;while "total at least" pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uENXs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uENX's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uENX's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDXDs in fee,&lt;br /&gt;while "total at least" pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Als de aangepaste vergoeding is ingesteld op 1000 uDXDs en de transactie is slechts 250 bytes, dan betaalt per kilobyte alleen 250 uDXD's in vergoeding,&lt;br /&gt;terwijl "totaal minstens" 1000 uDXD's betaalt. Voor transacties die groter zijn dan een kilobyte, betalen beiden per kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</source>
@@ -3223,8 +3223,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Voeg &amp;ontvanger toe</translation>
     </message>
     <message>
-        <source>Anonymized ENX</source>
-        <translation>Geanonimiseerde ENX</translation>
+        <source>Anonymized DXD</source>
+        <translation>Geanonimiseerde DXD</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -3939,32 +3939,32 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Verduisterd</translation>
     </message>
     <message>
-        <source>Converted Enx to zEnx</source>
-        <translation>Geconverteerde Enx naar zEnx</translation>
+        <source>Converted Dxd to zDxd</source>
+        <translation>Geconverteerde Dxd naar zDxd</translation>
     </message>
     <message>
-        <source>Spent zEnx</source>
-        <translation>Uitgegeven zEnx</translation>
+        <source>Spent zDxd</source>
+        <translation>Uitgegeven zDxd</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>Verkregen Enx van zEnx</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>Verkregen Dxd van zDxd</translation>
     </message>
     <message>
-        <source>Minted Change as zEnx from zEnx Spend</source>
-        <translation>Minted wisselgeld als zEnx van uitgegeven zEnx</translation>
+        <source>Minted Change as zDxd from zDxd Spend</source>
+        <translation>Minted wisselgeld als zDxd van uitgegeven zDxd</translation>
     </message>
     <message>
-        <source>Converted zEnx to Enx</source>
-        <translation>Geconverteerde zEnx naar Enx</translation>
+        <source>Converted zDxd to Dxd</source>
+        <translation>Geconverteerde zDxd naar Dxd</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>watch-only</translation>
     </message>
     <message>
-        <source>zEnx Accumulator</source>
-        <translation>zEnx Accumulator</translation>
+        <source>zDxd Accumulator</source>
+        <translation>zDxd Accumulator</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4074,8 +4074,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Masternode beloning</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>Verkregen Enx van zEnx</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>Verkregen Dxd van zDxd</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4086,8 +4086,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Zerocoin uitgegeven</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zEnx</source>
-        <translation>Zerocoin uitgegeven, wisselgeld in zEnx</translation>
+        <source>Zerocoin Spend, Change in zDxd</source>
+        <translation>Zerocoin uitgegeven, wisselgeld in zDxd</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4211,8 +4211,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Verzend Munten</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ENX.</source>
-        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 ENX.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 DXD.</source>
+        <translation>SwiftTX ondersteunt geen verzendwaarden die zo hoog zijn. Transacties zijn momenteel beperkt tot %1 DXD.</translation>
     </message>
 </context>
 <context>
@@ -4255,10 +4255,10 @@ Wees alsjeblieft geduldig...</translation>
     </message>
 </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
-        <source>Select zEnx to Spend</source>
-        <translation>Selecteer zEnx om te spenderen</translation>
+        <source>Select zDxd to Spend</source>
+        <translation>Selecteer zDxd om te spenderen</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4269,8 +4269,8 @@ Wees alsjeblieft geduldig...</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zEnx</source>
-        <translation>zEnx</translation>
+        <source>zDxd</source>
+        <translation>zDxd</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4372,12 +4372,12 @@ Wees alsjeblieft geduldig...</translation>
         <translation>Uitvoeren commando wanneer het beste blok verandert (%s in cmd is vervangen door block hash)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Kosten (in ENX/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Kosten (in DXD/Kb) kleiner dan dit worden beschouwd als zero fee voor heruitzending (standaard: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Kosten (in ENX/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Kosten (in DXD/Kb) kleiner dan dit worden beschouwd als zero fee voor transactie verrichting (standaard: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4508,12 +4508,12 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Nodex Alert" admin@foo.com
         <translation>Kan niet genoeg verduistering gedenomineerde fondsen voor deze transactie vinden.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 ENX.</source>
-        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 ENX.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 DXD.</source>
+        <translation>Kan niet genoeg verduistering niet gedenomineerde fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 DXD.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ENX.</source>
-        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 ENX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 DXD.</source>
+        <translation>Kan niet genoeg fondsen voor deze transactie vinden die niet gelijk zijn aan 10000 DXD.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4816,8 +4816,8 @@ bijvoorbeeld: alertnotify = echo %%s | mail -s "Nodex Alert" admin@foo.com
         <translation>Mislukt om block te lezen</translation>
     </message>
     <message>
-        <source>Fee (in ENX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in ENX/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
+        <source>Fee (in DXD/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in DXD/kB) om toe te voegen aan transacties die je verzendt (standaard: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>

@@ -183,7 +183,7 @@
     </message>
     </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     </context>
 <context>
     <name>nodex-core</name>

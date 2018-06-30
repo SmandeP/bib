@@ -178,16 +178,16 @@
         <translation>ウォレットの再暗号化を行いました</translation>
     </message>
     <message>
-        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
-        <translation>暗号化を完了するためウォレットを閉じます。暗号化されたため、パスワードがなければ攻撃者はENXを送金できません。</translation>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DXDs from being stolen by malware infecting your computer.</source>
+        <translation>暗号化を完了するためウォレットを閉じます。暗号化されたため、パスワードがなければ攻撃者はDXDを送金できません。</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
         <translation>ウォレットを暗号化しますか？</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>注意 : もし暗号化した後パスワードを忘れた場合 &lt;b&gt;すべてのENXを失います&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>注意 : もし暗号化した後パスワードを忘れた場合 &lt;b&gt;すべてのDXDを失います&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -836,8 +836,8 @@ Address: %4
         <translation>&amp;匿名化</translation>
     </message>
     <message>
-        <source>Privacy Actions for zENX</source>
-        <translation>zENXによる匿名化</translation>
+        <source>Privacy Actions for zDXD</source>
+        <translation>zDXDによる匿名化</translation>
     </message>
     <message>
         <source>&amp;Multisignature creation...</source>
@@ -1611,32 +1611,32 @@ Please check the address and try again.</source>
         <translation>Please select a privacy level.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Use 2 separate masternodes to mix funds up to 10000 ENX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Use 2 separate masternodes to mix funds up to 10000 DXD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Use 8 separate masternodes to mix funds up to 10000 ENX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Use 8 separate masternodes to mix funds up to 10000 DXD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Use 16 separate masternodes</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</translation>
+        <source>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</source>
+        <translation>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</translation>
+        <source>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</source>
+        <translation>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
         <translation>This is the slowest and most secure option. Using maximum anonymity will cost</translation>
     </message>
     <message>
-        <source>0.1 ENX per 10000 ENX you anonymize.</source>
-        <translation>0.1 ENX per 10000 ENX you anonymize.</translation>
+        <source>0.1 DXD per 10000 DXD you anonymize.</source>
+        <translation>0.1 DXD per 10000 DXD you anonymize.</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1915,20 +1915,20 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>入力されたプロキシアドレスは正しくありません。</translation>
     </message>
     <message>
-        <source>Percentage of incoming ENX which get automatically converted to zENX via Zerocoin Protocol (min: 10%)</source>
-        <translation>受け取られるENXをzENX(ゼロコインプロトコル)へ変換する比率(最小: 10%)</translation>
+        <source>Percentage of incoming DXD which get automatically converted to zDXD via Zerocoin Protocol (min: 10%)</source>
+        <translation>受け取られるDXDをzDXD(ゼロコインプロトコル)へ変換する比率(最小: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zENX</source>
-        <translation>zENXの自動変換の比率</translation>
+        <source>Percentage of autominted zDXD</source>
+        <translation>zDXDの自動変換の比率</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough ENX for this denomination is available</source>
-        <translation>選択したdenominationへ変換できるまでENXの自動変換を中断する</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough DXD for this denomination is available</source>
+        <translation>選択したdenominationへ変換できるまでDXDの自動変換を中断する</translation>
     </message>
     <message>
-        <source>Preferred Automint zENX Denomination</source>
-        <translation>自動変換するzENXのdenomination</translation>
+        <source>Preferred Automint zDXD Denomination</source>
+        <translation>自動変換するzDXDのdenomination</translation>
     </message>
     <message>
         <source>I don&apos;t care</source>
@@ -2014,8 +2014,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Obfuscation Balance:</translation>
     </message>
     <message>
-        <source>0 ENX / 0 Rounds</source>
-        <translation>0 ENX / 0 Rounds</translation>
+        <source>0 DXD / 0 Rounds</source>
+        <translation>0 DXD / 0 Rounds</translation>
     </message>
     <message>
         <source>Enabled/Disabled</source>
@@ -2160,8 +2160,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>N/A</translation>
     </message>
     <message>
-        <source>ENX Balances</source>
-        <translation>ENXの残高</translation>
+        <source>DXD Balances</source>
+        <translation>DXDの残高</translation>
     </message>
     <message>
         <source>Combined Balances (including unconfirmed and immature coins)</source>
@@ -2176,37 +2176,37 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>未確認・未成熟を含んだ全残高。</translation>
     </message>
     <message>
-        <source>ENX:</source>
-        <translation>ENX:</translation>
+        <source>DXD:</source>
+        <translation>DXD:</translation>
     </message>
     <message>
-        <source>zENX:</source>
-        <translation>zENX:</translation>
+        <source>zDXD:</source>
+        <translation>zDXD:</translation>
     </message>
     <message>
-        <source>Current percentage of zENX.
+        <source>Current percentage of zDXD.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%)</source>
-        <translation>現在のzENXの総所持数への比率。自動変換を有効にしている場合、その比率前後になっています。(デフォルト=10%)</translation>
+        <translation>現在のzDXDの総所持数への比率。自動変換を有効にしている場合、その比率前後になっています。(デフォルト=10%)</translation>
     </message>
     <message>
         <source>0 %</source>
         <translation>0 %</translation>
     </message>
     <message>
-        <source>Locked ENX or Masternode collaterals. These are excluded from zENX minting.</source>
-        <translation>ロックされたENX・マスターノードの担保。zENXの変換対象から除外されます。</translation>
+        <source>Locked DXD or Masternode collaterals. These are excluded from zDXD minting.</source>
+        <translation>ロックされたDXD・マスターノードの担保。zDXDの変換対象から除外されます。</translation>
     </message>
     <message>
-        <source>0.000 000 00 ENX</source>
-        <translation>0 ENX {0.000 000 00 ?}</translation>
+        <source>0.000 000 00 DXD</source>
+        <translation>0 DXD {0.000 000 00 ?}</translation>
     </message>
     <message>
         <source>Locked:</source>
         <translation>ロック済:</translation>
     </message>
     <message>
-        <source>Unlocked ENXs. These can be used for zENX minting.</source>
-        <translation>未ロックのENX。zENXへの変換に利用可能です。</translation>
+        <source>Unlocked DXDs. These can be used for zDXD minting.</source>
+        <translation>未ロックのDXD。zDXDへの変換に利用可能です。</translation>
     </message>
     <message>
         <source>Unlocked:</source>
@@ -2218,17 +2218,17 @@ If AutoMint is enabled this percentage will settle around the configured AutoMin
     </message>
     <message>
         <source>Mature: more than 20 confirmation and more than 3 mints of the same denomination after it was minted.
-These zENX are spendable.</source>
+These zDXD are spendable.</source>
         <translation>成熟: 20確認と同じdenominationでの3変換が必要です。
-その後zENXは使用可能になります。</translation>
+その後zDXDは使用可能になります。</translation>
     </message>
     <message>
         <source>Mature:</source>
         <translation>成熟:</translation>
     </message>
     <message>
-        <source>All available zENX, unconfirmed and immature zENX included.</source>
-        <translation>全zENXの合計。未確認・未成熟のzENXを含みます。</translation>
+        <source>All available zDXD, unconfirmed and immature zDXD included.</source>
+        <translation>全zDXDの合計。未確認・未成熟のzDXDを含みます。</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -2241,10 +2241,10 @@ Immature: confirmed, but less than 3 mints of the same denomination after it was
         <translation>未確認:</translation>
     </message>
     <message>
-        <source>Current percentage of zENX.
+        <source>Current percentage of zDXD.
 If AutoMint is enabled this percentage will settle around the configured AutoMint percentage (default = 10%).
 </source>
-        <translation>現在の所持数とzENXの比率です。
+        <translation>現在の所持数とzDXDの比率です。
 自動変換が有効であれば指定された比率程度になります (デフォルト = 10%)。
 </translation>
     </message>
@@ -3046,8 +3046,8 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>分割ごと枚数:</translation>
     </message>
     <message>
-        <source>0 ENX</source>
-        <translation>0 ENX</translation>
+        <source>0 DXD</source>
+        <translation>0 DXD</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3094,12 +3094,12 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>確認時間:</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</source>
@@ -3312,8 +3312,8 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>コインは自動で選択されます</translation>
     </message>
     <message>
-        <source>Anonymized ENX</source>
-        <translation>匿名化されたENX</translation>
+        <source>Anonymized DXD</source>
+        <translation>匿名化されたDXD</translation>
     </message>
     <message>
         <source>SwiftX</source>
@@ -3974,28 +3974,28 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>枚数は残高から増減されます。</translation>
     </message>
     <message>
-        <source>Converted Enx to zEnx</source>
-        <translation>ENXをzENXへ変換</translation>
+        <source>Converted Dxd to zDxd</source>
+        <translation>DXDをzDXDへ変換</translation>
     </message>
     <message>
-        <source>Spent zEnx</source>
-        <translation>zENXを送金</translation>
+        <source>Spent zDxd</source>
+        <translation>zDXDを送金</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>zENXによる受け取り</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>zDXDによる受け取り</translation>
     </message>
     <message>
-        <source>Minted Change as zEnx from zEnx Spend</source>
-        <translation>zENXの送金のお釣りをzENXに変換</translation>
+        <source>Minted Change as zDxd from zDxd Spend</source>
+        <translation>zDXDの送金のお釣りをzDXDに変換</translation>
     </message>
     <message>
-        <source>Converted zEnx to Enx</source>
-        <translation>zENXからENXへ変換</translation>
+        <source>Converted zDxd to Dxd</source>
+        <translation>zDXDからDXDへ変換</translation>
     </message>
     <message>
-        <source>zEnx Accumulator</source>
-        <translation>zENXアキュムレータ</translation>
+        <source>zDxd Accumulator</source>
+        <translation>zDXDアキュムレータ</translation>
     </message>
 </context>
 <context>
@@ -4173,8 +4173,8 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>から</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>zENXからENXへの受け取り</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>zDXDからDXDへの受け取り</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4185,8 +4185,8 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>ゼロコインの送金</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zEnx</source>
-        <translation>ゼロコインの送金,お釣りをzENXで受け取り</translation>
+        <source>Zerocoin Spend, Change in zDxd</source>
+        <translation>ゼロコインの送金,お釣りをzDXDで受け取り</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4214,12 +4214,12 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>コインの送金</translation>
     </message>
     <message>
-        <source>SwiftTX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 ENX.</source>
-        <translation>SwiftTXはあまり高額の送金は対応してません。%1 ENXが上限です。</translation>
+        <source>SwiftTX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 DXD.</source>
+        <translation>SwiftTXはあまり高額の送金は対応してません。%1 DXDが上限です。</translation>
     </message>
     <message>
-        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 ENX.</source>
-        <translation>SwiftTXはあまり高額の送金は対応してません。%1 ENXが上限です。</translation>
+        <source>SwiftX doesn&apos;t support sending values that high yet. Transactions are currently limited to %1 DXD.</source>
+        <translation>SwiftTXはあまり高額の送金は対応してません。%1 DXDが上限です。</translation>
     </message>
 </context>
 <context>
@@ -4352,12 +4352,12 @@ To enable AutoMint add &apos;enablezeromint=1&apos; in nodex.conf</source>
         <translation>Execute command when the best block changes (%s in cmd is replaced by block hash)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Fees (in ENX/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Fees (in DXD/Kb) smaller than this are considered zero fee for relaying (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Fees (in ENX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Fees (in DXD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>
@@ -4494,12 +4494,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>Unable to locate enough Obfuscation denominated funds for this transaction.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 ENX.</source>
-        <translation>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 ENX.</translation>
+        <source>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 DXD.</source>
+        <translation>Unable to locate enough Obfuscation non-denominated funds for this transaction that are not equal 10000 DXD.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 10000 ENX.</source>
-        <translation>Unable to locate enough funds for this transaction that are not equal 10000 ENX.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 10000 DXD.</source>
+        <translation>Unable to locate enough funds for this transaction that are not equal 10000 DXD.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4786,8 +4786,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>ブロックの読み込みに失敗</translation>
     </message>
     <message>
-        <source>Fee (in ENX/kB) to add to transactions you send (default: %s)</source>
-        <translation>Fee (in ENX/kB) to add to transactions you send (default: %s)</translation>
+        <source>Fee (in DXD/kB) to add to transactions you send (default: %s)</source>
+        <translation>Fee (in DXD/kB) to add to transactions you send (default: %s)</translation>
     </message>
     <message>
         <source>Finalizing transaction.</source>
@@ -4958,8 +4958,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>Enable staking functionality (0-1, default: %u)</translation>
     </message>
     <message>
-        <source>Keep N ENX anonymized (default: %u)</source>
-        <translation>Keep N ENX anonymized (default: %u)</translation>
+        <source>Keep N DXD anonymized (default: %u)</source>
+        <translation>Keep N DXD anonymized (default: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -5550,8 +5550,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>Nodexの全特徴を無効化する(マスターノード/匿名化/SwiftX/Budget) (0-1, デフォルト: %u)</translation>
     </message>
     <message>
-        <source>Enable automatic wallet backups triggered after each zEnx minting (0-1, default: %u)</source>
-        <translation>zENXへの変換後自動でウォレットをバックアップする( 0-1, デフォルト: %u)</translation>
+        <source>Enable automatic wallet backups triggered after each zDxd minting (0-1, default: %u)</source>
+        <translation>zDXDへの変換後自動でウォレットをバックアップする( 0-1, デフォルト: %u)</translation>
     </message>
     <message>
         <source>Enable SwiftX, show confirmations for locked transactions (bool, default: %s)</source>
@@ -5731,10 +5731,10 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
     </message>
 </context>
 <context>
-    <name>zenxcontroldialog</name>
+    <name>zdxdcontroldialog</name>
     <message>
-        <source>Select zEnx to Spend</source>
-        <translation>送金したいzENXを選択</translation>
+        <source>Select zDxd to Spend</source>
+        <translation>送金したいzDXDを選択</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -5752,12 +5752,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>ENX which were anonymized via Zerocin Protocol</source>
-        <translation>ゼロコインプロトコルにより匿名化されるENX</translation>
+        <source>DXD which were anonymized via Zerocin Protocol</source>
+        <translation>ゼロコインプロトコルにより匿名化されるDXD</translation>
     </message>
     <message>
-        <source>Zerocoin ENX (zENX)</source>
-        <translation>ゼロコイン ENX (zENX)</translation>
+        <source>Zerocoin DXD (zDXD)</source>
+        <translation>ゼロコイン DXD (zDXD)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -5768,8 +5768,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>表示されている情報は古いものかもしれません。Nodexネットワークに接続後自動的に同期が行われますが、まだ同期は完了していません。</translation>
     </message>
     <message>
-        <source>Enter an amount of Enx to convert to zEnx</source>
-        <translation>zENXへ変換したいENXの枚数を入力</translation>
+        <source>Enter an amount of Dxd to convert to zDxd</source>
+        <translation>zDXDへ変換したいDXDの枚数を入力</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -5816,12 +5816,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>ステータス・直前の変換アクションでのメッセージログ。</translation>
     </message>
     <message>
-        <source>zEnx Control</source>
-        <translation>zENX コントロール</translation>
+        <source>zDxd Control</source>
+        <translation>zDXD コントロール</translation>
     </message>
     <message>
-        <source>zEnx Selected:</source>
-        <translation>選択された zENX:</translation>
+        <source>zDxd Selected:</source>
+        <translation>選択された zDXD:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -5836,18 +5836,18 @@ for example: alertnotify=echo %%s | mail -s &quot;Nodex Alert&quot; admin@foo.co
         <translation>ゼロコインを送金</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zENX for spending</source>
-        <translation>利用できるzENX</translation>
+        <source>Available (mature and spendable) zDXD for spending</source>
+        <translation>利用できるzDXD</translation>
     </message>
     <message>
         <source>Available Balance:</source>
         <translation>利用可能な残高:</translation>
     </message>
     <message>
-        <source>Available (mature and spendable) zENX for spending
+        <source>Available (mature and spendable) zDXD for spending
 
-zENX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
-        <translation>zENXは20確認と同じdenominationでの3変換がされたのちに利用可能になります</translation>
+zDXD are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</source>
+        <translation>zDXDは20確認と同じdenominationでの3変換がされたのちに利用可能になります</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -5891,7 +5891,7 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>お釣りをzENXへ変換(追加で手数料がかかります)</translation>
+        <translation>お釣りをzDXDへ変換(追加で手数料がかかります)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
@@ -5910,8 +5910,8 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
         <translation>利用できるゼロコイン残高の情報.</translation>
     </message>
     <message>
-        <source>Total Balance including unconfirmed and immature zENX</source>
-        <translation>未確認・未成熟なzENXも含んだ全残高</translation>
+        <source>Total Balance including unconfirmed and immature zDXD</source>
+        <translation>未確認・未成熟なzDXDも含んだ全残高</translation>
     </message>
     <message>
         <source>Total Zerocoin  Balance:</source>
@@ -5919,11 +5919,11 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
     </message>
     <message>
         <source>Denominations with value 1:</source>
-        <translation>1 zENX の塊(denomination):</translation>
+        <translation>1 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 1:</source>
-        <translation>1 zENX のdenom.:</translation>
+        <translation>1 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Unconfirmed: less than 20 confirmations
@@ -5933,59 +5933,59 @@ Immature: confirmed, but less than 2 mints of the same denomination after it was
     </message>
     <message>
         <source>Denominations with value 5:</source>
-        <translation>5 zENX の塊(denomination):</translation>
+        <translation>5 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 5:</source>
-        <translation>5 zENX のdenom.:</translation>
+        <translation>5 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 10:</source>
-        <translation>10 zENX の塊(denomination):</translation>
+        <translation>10 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 10:</source>
-        <translation>10 zENX のdenom.:</translation>
+        <translation>10 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 50:</source>
-        <translation>50 zENX の塊(denomination):</translation>
+        <translation>50 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 50:</source>
-        <translation>50 zENX のdenom.:</translation>
+        <translation>50 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 100:</source>
-        <translation>100 zENX の塊(denomination):</translation>
+        <translation>100 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 100:</source>
-        <translation>100 zENX のdenom.:</translation>
+        <translation>100 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 500:</source>
-        <translation>500 zENX の塊(denomination):</translation>
+        <translation>500 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 500:</source>
-        <translation>500 zENX のdenom.:</translation>
+        <translation>500 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 1000:</source>
-        <translation>1000 zENX の塊(denomination):</translation>
+        <translation>1000 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 1000:</source>
-        <translation>1000 zENX のdenom.:</translation>
+        <translation>1000 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Denominations with value 5000:</source>
-        <translation>5000 zENX の塊(denomination):</translation>
+        <translation>5000 zDXD の塊(denomination):</translation>
     </message>
     <message>
         <source>Denom. with value 5000:</source>
-        <translation>5000 zENX のdenom.:</translation>
+        <translation>5000 zDXD のdenom.:</translation>
     </message>
     <message>
         <source>Priority:</source>
@@ -6131,8 +6131,8 @@ Please be patient after clicking import.</source>
         <translation>アドレス / 枚数:</translation>
     </message>
     <message>
-        <source>Add destinations to send ENX to</source>
-        <translation>ENXを送る宛先を追加</translation>
+        <source>Add destinations to send DXD to</source>
+        <translation>DXDを送る宛先を追加</translation>
     </message>
     <message>
         <source>Add &amp;Destination</source>

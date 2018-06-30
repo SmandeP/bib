@@ -414,9 +414,9 @@ bool RemoveSerialFromDB(const CBigNum& bnSerial);
 int GetZerocoinStartHeight();
 bool IsTransactionInChain(uint256 txId, int& nHeightTx);
 bool IsBlockHashInChain(const uint256& hashBlock);
-void RecalculateZENXSpent();
-void RecalculateZENXMinted();
-bool RecalculateENXSupply(int nHeightStart);
+void RecalculateZDXDSpent();
+void RecalculateZDXDMinted();
+bool RecalculateDXDSupply(int nHeightStart);
 bool ReindexAccumulators(list<uint256>& listMissingCheckpoints, string& strError);
 
 

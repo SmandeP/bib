@@ -56,7 +56,7 @@ QT_TRANSLATE_NOOP("nodex-core", ""
 "Distributed under the MIT software license, see the accompanying file "
 "COPYING or <http://www.opensource.org/licenses/mit-license.php>."),
 QT_TRANSLATE_NOOP("nodex-core", ""
-"Enable automatic wallet backups triggered after each zEnx minting (0-1, "
+"Enable automatic wallet backups triggered after each zDxd minting (0-1, "
 "default: %u)"),
 QT_TRANSLATE_NOOP("nodex-core", ""
 "Enable spork administration functionality with the appropriate private key."),
@@ -90,10 +90,10 @@ QT_TRANSLATE_NOOP("nodex-core", ""
 "Execute command when the best block changes (%s in cmd is replaced by block "
 "hash)"),
 QT_TRANSLATE_NOOP("nodex-core", ""
-"Fees (in ENX/Kb) smaller than this are considered zero fee for relaying "
+"Fees (in DXD/Kb) smaller than this are considered zero fee for relaying "
 "(default: %s)"),
 QT_TRANSLATE_NOOP("nodex-core", ""
-"Fees (in ENX/Kb) smaller than this are considered zero fee for transaction "
+"Fees (in DXD/Kb) smaller than this are considered zero fee for transaction "
 "creation (default: %s)"),
 QT_TRANSLATE_NOOP("nodex-core", ""
 "Flush database activity from memory pool to disk log every <n> megabytes "
@@ -188,10 +188,10 @@ QT_TRANSLATE_NOOP("nodex-core", ""
 "Unable to locate enough Obfuscation denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("nodex-core", ""
 "Unable to locate enough Obfuscation non-denominated funds for this "
-"transaction that are not equal 10000 ENX."),
+"transaction that are not equal 10000 DXD."),
 QT_TRANSLATE_NOOP("nodex-core", ""
 "Unable to locate enough funds for this transaction that are not equal 10000 "
-"ENX."),
+"DXD."),
 QT_TRANSLATE_NOOP("nodex-core", ""
 "Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: "
 "%s)"),
@@ -305,7 +305,7 @@ QT_TRANSLATE_NOOP("nodex-core", "Failed to listen on any port. Use -listen=0 if 
 QT_TRANSLATE_NOOP("nodex-core", "Failed to read block index"),
 QT_TRANSLATE_NOOP("nodex-core", "Failed to read block"),
 QT_TRANSLATE_NOOP("nodex-core", "Failed to write block index"),
-QT_TRANSLATE_NOOP("nodex-core", "Fee (in ENX/kB) to add to transactions you send (default: %s)"),
+QT_TRANSLATE_NOOP("nodex-core", "Fee (in DXD/kB) to add to transactions you send (default: %s)"),
 QT_TRANSLATE_NOOP("nodex-core", "Finalizing transaction."),
 QT_TRANSLATE_NOOP("nodex-core", "Force safe mode (default: %u)"),
 QT_TRANSLATE_NOOP("nodex-core", "Found enough users, signing ( waiting %s )"),

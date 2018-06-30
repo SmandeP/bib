@@ -324,7 +324,7 @@
                   <enum>Qt::ActionsContextMenu</enum>
                  </property>
                  <property name="text">
-                  <string notr="true">0.00 ENX</string>
+                  <string notr="true">0.00 DXD</string>
                  </property>
                  <property name="textInteractionFlags">
                   <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -404,7 +404,7 @@
                   <enum>Qt::ActionsContextMenu</enum>
                  </property>
                  <property name="text">
-                  <string notr="true">0.00 ENX</string>
+                  <string notr="true">0.00 DXD</string>
                  </property>
                  <property name="textInteractionFlags">
                   <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -484,7 +484,7 @@
                   <enum>Qt::ActionsContextMenu</enum>
                  </property>
                  <property name="text">
-                  <string notr="true">0.00 ENX</string>
+                  <string notr="true">0.00 DXD</string>
                  </property>
                  <property name="textInteractionFlags">
                   <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -513,7 +513,7 @@
                   <enum>Qt::ActionsContextMenu</enum>
                  </property>
                  <property name="text">
-                  <string notr="true">0.00 ENX</string>
+                  <string notr="true">0.00 DXD</string>
                  </property>
                  <property name="textInteractionFlags">
                   <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -594,7 +594,7 @@
           <item>
            <widget class="QLabel" name="labelBlockSize">
             <property name="text">
-             <string>0 ENX</string>
+             <string>0 DXD</string>
             </property>
            </widget>
           </item>
@@ -889,7 +889,7 @@
                  <item>
                   <widget class="QRadioButton" name="radioCustomPerKilobyte">
                    <property name="toolTip">
-                    <string>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</string>
+                    <string>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</string>
                    </property>
                    <property name="text">
                     <string>per kilobyte</string>
@@ -905,7 +905,7 @@
                  <item>
                   <widget class="QRadioButton" name="radioCustomAtLeast">
                    <property name="toolTip">
-                    <string>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uENXs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</string>
+                    <string>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then &quot;per kilobyte&quot; only pays 250 uDXDs in fee,&lt;br /&gt;while &quot;total at least&quot; pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</string>
                    </property>
                    <property name="text">
                     <string>total at least</string>
@@ -1385,12 +1385,12 @@
         <number>3</number>
        </property>
        <item>
-        <widget class="QCheckBox" name="checkzENX">
+        <widget class="QCheckBox" name="checkzDXD">
          <property name="enabled">
           <bool>false</bool>
          </property>
          <property name="text">
-          <string>Anonymized ENX</string>
+          <string>Anonymized DXD</string>
          </property>
         </widget>
        </item>
@@ -1429,7 +1429,7 @@
           <cursorShape>IBeamCursor</cursorShape>
          </property>
          <property name="text">
-          <string notr="true">123.456 ENX</string>
+          <string notr="true">123.456 DXD</string>
          </property>
          <property name="textInteractionFlags">
           <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>

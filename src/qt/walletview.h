@@ -129,7 +129,7 @@ public slots:
     /** Show progress dialog e.g. for rescan */
     void showProgress(const QString& title, int nProgress);
 
-    /** Update selected ENX amount from transactionview */
+    /** Update selected DXD amount from transactionview */
     void trxAmount(QString amount);
 
 signals:

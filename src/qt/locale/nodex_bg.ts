@@ -176,7 +176,7 @@
         <translation>Потвърдете шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your ENXs from being stolen by malware infecting your computer.</source>
+        <source>Nodex will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your DXDs from being stolen by malware infecting your computer.</source>
         <translation>Nodex сега ще се затвори, за да довърши процеса по шифриране. Запомнете, че шифрирането на вашия портфейл не може напълно да защити вашия Nodex от това, да бъде откраднат чрез злонамерен софутуер, инфектирал вашия компютър.</translation>
     </message>
     <message>
@@ -184,8 +184,8 @@
         <translation>Сигурни ли сте, че искате да шифрирате вашия портфейл?</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR ENX&lt;/b&gt;!</source>
-        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ ENX&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR DXD&lt;/b&gt;!</source>
+        <translation>&lt;b&gt;Внимание: Ако шифрирате вашия портфейл и загубите вашата парола, вие ще ЗАГУБИТЕ ВСИЧКИТЕ ВИ DXD&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Wallet encrypted</source>
@@ -618,8 +618,8 @@
         <translation>&amp;Поверителност</translation>
     </message>
     <message>
-        <source>Privacy Action for zENX and Obfuscation</source>
-        <translation>Поверителни действия за zENX и Обфускация</translation>
+        <source>Privacy Action for zDXD and Obfuscation</source>
+        <translation>Поверителни действия за zDXD и Обфускация</translation>
     </message>
     <message>
         <source>&amp;Masternodes</source>
@@ -1548,32 +1548,32 @@ Please check the address and try again.</source>
         <translation>Изберете ниво на поверителност.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 ENX</translation>
+        <source>Use 2 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Използвай 2 различни мастърноуда за смесване на средства над 10000 DXD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 10000 ENX</source>
-        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 ENX</translation>
+        <source>Use 8 separate masternodes to mix funds up to 10000 DXD</source>
+        <translation>Използвай 8 различни мастърноуда за да смесите средства до 10000 DXD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Използвай 16 различни мастърноуда</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 ENX to anonymize 10000 ENX</source>
-        <translation>Това е най-бързия метод и ще струва около 0.025 ENX за да скриете 10000 ENX</translation>
+        <source>This option is the quickest and will cost about ~0.025 DXD to anonymize 10000 DXD</source>
+        <translation>Това е най-бързия метод и ще струва около 0.025 DXD за да скриете 10000 DXD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 ENX to anonymize 10000 ENX</source>
-        <translation>Тази опция е сравнително бърза и ще струва около 0.05 ENX за да скриете 10000 ENX</translation>
+        <source>This option is moderately fast and will cost about 0.05 DXD to anonymize 10000 DXD</source>
+        <translation>Тази опция е сравнително бърза и ще струва около 0.05 DXD за да скриете 10000 DXD</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
-        <translation>Това е най-бавния и най-сигурен вариант за скриване на ENX. Използването й ще струва</translation>
+        <translation>Това е най-бавния и най-сигурен вариант за скриване на DXD. Използването й ще струва</translation>
     </message>
     <message>
-        <source>0.1 ENX per 10000 ENX you anonymize.</source>
-        <translation>0.1 ENX за 10000 скрити ENX</translation>
+        <source>0.1 DXD per 10000 DXD you anonymize.</source>
+        <translation>0.1 DXD за 10000 скрити DXD</translation>
     </message>
     <message>
         <source>Obfuscation Configuration</source>
@@ -1712,20 +1712,20 @@ https://www.transifex.com/nodex-project/nodex-project-translations</source>
 https://www.transifex.com/nodex-project/nodex-project-translations</translation>
     </message>
     <message>
-        <source>Percentage of incoming ENX which get automatically converted to zENX via Zerocoin Protocol (min: 10%)</source>
-        <translation>Процент от входящите ENX, който автоматично да се конвертира в zENX посредтвом Zerocoin Протокола (мин: 10%)</translation>
+        <source>Percentage of incoming DXD which get automatically converted to zDXD via Zerocoin Protocol (min: 10%)</source>
+        <translation>Процент от входящите DXD, който автоматично да се конвертира в zDXD посредтвом Zerocoin Протокола (мин: 10%)</translation>
     </message>
     <message>
-        <source>Percentage of autominted zENX</source>
-        <translation>Процент автоматично сечени zENX</translation>
+        <source>Percentage of autominted zDXD</source>
+        <translation>Процент автоматично сечени zDXD</translation>
     </message>
     <message>
-        <source>Wait with automatic conversion to Zerocoin until enough ENX for this denomination is available</source>
-        <translation>Не бързай с автоматичното конвертиране в zENX докато не се съберат достатъчно ENX за тази деноминация</translation>
+        <source>Wait with automatic conversion to Zerocoin until enough DXD for this denomination is available</source>
+        <translation>Не бързай с автоматичното конвертиране в zDXD докато не се съберат достатъчно DXD за тази деноминация</translation>
     </message>
     <message>
-        <source>Preferred Automint zENX Denomination</source>
-        <translation>Предпочитани деноминации, в които да се сече автоматичен zENX</translation>
+        <source>Preferred Automint zDXD Denomination</source>
+        <translation>Предпочитани деноминации, в които да се сече автоматичен zDXD</translation>
     </message>
     <message>
         <source>Connect to the Nodex network through a SOCKS5 proxy.</source>
@@ -1859,8 +1859,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>От</translation>
     </message>
     <message>
-        <source>ENX Balances</source>
-        <translation>ENX Баланс</translation>
+        <source>DXD Balances</source>
+        <translation>DXD Баланс</translation>
     </message>
     <message>
         <source>Available:</source>
@@ -1927,12 +1927,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Комбиниран общ баланс (само озрелите монети)</translation>
     </message>
     <message>
-        <source>ENX:</source>
-        <translation>ENX:</translation>
+        <source>DXD:</source>
+        <translation>DXD:</translation>
     </message>
     <message>
-        <source>zENX:</source>
-        <translation>zENX:</translation>
+        <source>zDXD:</source>
+        <translation>zDXD:</translation>
     </message>
     <message>
         <source>0 %</source>
@@ -2060,12 +2060,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
 <context>
     <name>PrivacyDialog</name>
     <message>
-        <source>ENX which were anonymized via Zerocin Protocol</source>
-        <translation>ENX скрити посредством Зерокойн протокола</translation>
+        <source>DXD which were anonymized via Zerocin Protocol</source>
+        <translation>DXD скрити посредством Зерокойн протокола</translation>
     </message>
     <message>
-        <source>Zerocoin ENX (zENX)</source>
-        <translation>Zerocoin ENX (zENX)</translation>
+        <source>Zerocoin DXD (zDXD)</source>
+        <translation>Zerocoin DXD (zDXD)</translation>
     </message>
     <message>
         <source>Zerocoin Actions:</source>
@@ -2076,8 +2076,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Информацията на вашия екран може би е стара. Вашия портфейла синхронизира автоматично с Nodex мрежата след като има успешна свръзка, но процеса отнема време и не е завършил все още.</translation>
     </message>
     <message>
-        <source>Enter an amount of Enx to convert to zEnx</source>
-        <translation>Въведете колко ENX  да се конвертират в zENX</translation>
+        <source>Enter an amount of Dxd to convert to zDxd</source>
+        <translation>Въведете колко DXD  да се конвертират в zDXD</translation>
     </message>
     <message>
         <source>Mint Zerocoin</source>
@@ -2088,16 +2088,16 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>0</translation>
     </message>
     <message>
-        <source>zENX</source>
-        <translation>zENX</translation>
+        <source>zDXD</source>
+        <translation>zDXD</translation>
     </message>
     <message>
         <source>Available for Minting:</source>
         <translation>Налични за сечене:</translation>
     </message>
     <message>
-        <source>0.000 000 00 ENX</source>
-        <translation>0.000 000 00 ENX</translation>
+        <source>0.000 000 00 DXD</source>
+        <translation>0.000 000 00 DXD</translation>
     </message>
     <message>
         <source>Reset Zerocoin Wallet DB. Deletes transactions that did not make it into the blockchain.</source>
@@ -2132,12 +2132,12 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Състояния и/или Съобщения от последните действия по сечене на монети.</translation>
     </message>
     <message>
-        <source>zEnx Control</source>
-        <translation>zENX Контрол</translation>
+        <source>zDxd Control</source>
+        <translation>zDXD Контрол</translation>
     </message>
     <message>
-        <source>zEnx Selected:</source>
-        <translation>Избрани zENX:</translation>
+        <source>zDxd Selected:</source>
+        <translation>Избрани zDXD:</translation>
     </message>
     <message>
         <source>Quantity Selected:</source>
@@ -2156,8 +2156,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Налични:</translation>
     </message>
     <message>
-        <source>0 zENX</source>
-        <translation>0 zENX</translation>
+        <source>0 zDXD</source>
+        <translation>0 zDXD</translation>
     </message>
     <message>
         <source>Security Level for Zerocoin Transactions. More is better, but needs more time and resources.</source>
@@ -2209,7 +2209,7 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
     </message>
     <message>
         <source>Convert Change to Zerocoin (might cost additional fees)</source>
-        <translation>Изсечи zENX от рестото (ще струва допълнително заради таксите)</translation>
+        <translation>Изсечи zDXD от рестото (ще струва допълнително заради таксите)</translation>
     </message>
     <message>
         <source>If checked, the wallet tries to minimize the returning change instead of minimizing the number of spent denominations.</source>
@@ -2396,8 +2396,8 @@ https://www.transifex.com/nodex-project/nodex-project-translations</translation>
         <translation>Успешно изсечени</translation>
     </message>
     <message>
-        <source> zENX in </source>
-        <translation>zENX в</translation>
+        <source> zDXD in </source>
+        <translation>zDXD в</translation>
     </message>
     <message>
         <source> sec. Used denominations:
@@ -2474,8 +2474,8 @@ Please be patient...</source>
         <translation>Харченето на Zerocoin се провали със статус =</translation>
     </message>
     <message>
-        <source>zEnx Spend #: </source>
-        <translation>zENX Похарчени #:</translation>
+        <source>zDxd Spend #: </source>
+        <translation>zDXD Похарчени #:</translation>
     </message>
     <message>
         <source>denomination: </source>
@@ -2498,8 +2498,8 @@ Please be patient...</source>
         <translation>адрес:</translation>
     </message>
     <message>
-        <source>zEnx Mint</source>
-        <translation>Сечене на zENX</translation>
+        <source>zDxd Mint</source>
+        <translation>Сечене на zDXD</translation>
     </message>
     <message>
         <source>Sending successful, return code: </source>
@@ -3127,8 +3127,8 @@ Please be patient...</source>
         <translation>Размер на UTXO:</translation>
     </message>
     <message>
-        <source>0 ENX</source>
-        <translation>0 ENX</translation>
+        <source>0 DXD</source>
+        <translation>0 DXD</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -3179,12 +3179,12 @@ Please be patient...</source>
         <translation>Автоматично избрани монети</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uENXs in fee,&lt;br /&gt;while "at least" pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uENX и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uENX входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uENX. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDXDs in fee,&lt;br /&gt;while "at least" pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uDXD и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uDXD входяща такса, &lt;br /&gt;докато "минимална сума" плаща 1000 uDXD. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 uENXs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uENXs in fee,&lt;br /&gt;while "total at least" pays 1000 uENXs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>Ако собствената такса е настроена на 1000 uENX и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uENX входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uENX. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
+        <source>If the custom fee is set to 1000 uDXDs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 uDXDs in fee,&lt;br /&gt;while "total at least" pays 1000 uDXDs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>Ако собствената такса е настроена на 1000 uDXD и превода е само 250 байта, то тогава "за килобайт" само плаща 250 uDXD входяща такса,&lt;br /&gt; докато "минимална сума" плаща 1000 uDXD. За транзакции по-големи от килобайт, и двете плащат за килобайт.</translation>
     </message>
     <message>
         <source>Paying only the minimum fee is just fine as long as there is less transaction volume than space in the blocks.&lt;br /&gt;But be aware that this can end up in a never confirming transaction once there is more demand for Nodex transactions than the network can process.</source>
@@ -3235,8 +3235,8 @@ Please be patient...</source>
         <translation>Добави Получател</translation>
     </message>
     <message>
-        <source>Anonymized ENX</source>
-        <translation>Анонимизиран ENX</translation>
+        <source>Anonymized DXD</source>
+        <translation>Анонимизиран DXD</translation>
     </message>
     <message>
         <source>SwiftTX</source>
@@ -3296,7 +3296,7 @@ Please be patient...</source>
     </message>
     <message>
         <source>Warning: Invalid Nodex address</source>
-        <translation>Предупреждение: Невалиден ENX адрес</translation>
+        <translation>Предупреждение: Невалиден DXD адрес</translation>
     </message>
     <message>
         <source>any available funds (not recommended)</source>
@@ -3955,32 +3955,32 @@ Please be patient...</source>
         <translation>Обфускирани</translation>
     </message>
     <message>
-        <source>Converted Enx to zEnx</source>
-        <translation>Конвертиран ENX във zENX</translation>
+        <source>Converted Dxd to zDxd</source>
+        <translation>Конвертиран DXD във zDXD</translation>
     </message>
     <message>
-        <source>Spent zEnx</source>
-        <translation>Похарчени zENX</translation>
+        <source>Spent zDxd</source>
+        <translation>Похарчени zDXD</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>Получен ENX от zENX</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>Получен DXD от zDXD</translation>
     </message>
     <message>
-        <source>Minted Change as zEnx from zEnx Spend</source>
-        <translation>Исечено ресто като zENX от похарчените zENX</translation>
+        <source>Minted Change as zDxd from zDxd Spend</source>
+        <translation>Исечено ресто като zDXD от похарчените zDXD</translation>
     </message>
     <message>
-        <source>Converted zEnx to Enx</source>
-        <translation>Конвертирани zENX в ENX</translation>
+        <source>Converted zDxd to Dxd</source>
+        <translation>Конвертирани zDXD в DXD</translation>
     </message>
     <message>
         <source>watch-only</source>
         <translation>наблюдение само</translation>
     </message>
     <message>
-        <source>zEnx Accumulator</source>
-        <translation>zENX Акумулатор</translation>
+        <source>zDxd Accumulator</source>
+        <translation>zDXD Акумулатор</translation>
     </message>
     <message>
         <source>(n/a)</source>
@@ -4086,8 +4086,8 @@ Please be patient...</source>
         <translation>Мастърноуд възнаграждение</translation>
     </message>
     <message>
-        <source>Received Enx from zEnx</source>
-        <translation>Получен ENX от zENX</translation>
+        <source>Received Dxd from zDxd</source>
+        <translation>Получен DXD от zDXD</translation>
     </message>
     <message>
         <source>Zerocoin Mint</source>
@@ -4098,8 +4098,8 @@ Please be patient...</source>
         <translation>Харчене на Zerocoin</translation>
     </message>
     <message>
-        <source>Zerocoin Spend, Change in zEnx</source>
-        <translation>Харчене на Zerocoin, Ресто в zENX</translation>
+        <source>Zerocoin Spend, Change in zDxd</source>
+        <translation>Харчене на Zerocoin, Ресто в zDXD</translation>
     </message>
     <message>
         <source>Zerocoin Spend to Self</source>
@@ -4215,8 +4215,8 @@ Please be patient...</source>
         <translation>Изпрати Монети</translation>
     </message>
     <message>
-        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 ENX.</source>
-        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 ENX.</translation>
+        <source>SwiftTX doesn't support sending values that high yet. Transactions are currently limited to %1 DXD.</source>
+        <translation>SwiftTX не подържа изпращането на толкова големи суми. Превода е ограничен до %1 DXD.</translation>
     </message>
 </context>
 <context>
@@ -4259,10 +4259,10 @@ Please be patient...</source>
     </message>
 </context>
 <context>
-    <name>ZEnxControlDialog</name>
+    <name>ZDxdControlDialog</name>
     <message>
-        <source>Select zEnx to Spend</source>
-        <translation>Изберете zENX за Изпращане</translation>
+        <source>Select zDxd to Spend</source>
+        <translation>Изберете zDXD за Изпращане</translation>
     </message>
     <message>
         <source>Quantity</source>
@@ -4273,8 +4273,8 @@ Please be patient...</source>
         <translation>0</translation>
     </message>
     <message>
-        <source>zEnx</source>
-        <translation>zENX</translation>
+        <source>zDxd</source>
+        <translation>zDXD</translation>
     </message>
     <message>
         <source>Select/Deselect All</source>
@@ -4344,12 +4344,12 @@ Please be patient...</source>
         <translation>Командата влиза в сила, когато най-добрия блок се промени (%s в cmd се замества от хаш на блока)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
-        <translation>Такси (в ENX/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <translation>Такси (в DXD/Кб) по-малки от това се считат за нулеви при препращане (default: %s)</translation>
     </message>
     <message>
-        <source>Fees (in ENX/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
-        <translation>Такси (в ENX/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
+        <source>Fees (in DXD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <translation>Такси (в DXD/Кб) по-малки от това се считат за нулеви при създаване на предовда (default: %s)</translation>
     </message>
     <message>
         <source>Flush database activity from memory pool to disk log every &lt;n&gt; megabytes (default: %u)</source>

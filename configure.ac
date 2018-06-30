@@ -19,9 +19,9 @@ BITCOIN_TX_NAME=nodex-tx
 
 AC_CANONICAL_HOST
 
-AH_TOP([#ifndef ENX_CONFIG_H])
-AH_TOP([#define ENX_CONFIG_H])
-AH_BOTTOM([#endif //ENX_CONFIG_H])
+AH_TOP([#ifndef DXD_CONFIG_H])
+AH_TOP([#define DXD_CONFIG_H])
+AH_BOTTOM([#endif //DXD_CONFIG_H])
 
 dnl faketime breaks configure and is only needed for make. Disable it here.
 unset FAKETIME

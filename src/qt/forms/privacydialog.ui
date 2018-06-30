@@ -172,7 +172,7 @@
                       <item>
                        <layout class="QHBoxLayout" name="horizontalLayout_3">
                         <item>
-                         <widget class="QLabel" name="labelzENXActions">
+                         <widget class="QLabel" name="labelzDXDActions">
                           <property name="font">
                            <font>
                             <pointsize>12</pointsize>
@@ -189,7 +189,7 @@
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXSyncStatus">
+                         <widget class="QLabel" name="labelzDXDSyncStatus">
                           <property name="toolTip">
                            <string>The displayed information may be out of date. Your wallet automatically synchronizes with the Nodex network after a connection is established, but this process has not completed yet.</string>
                           </property>
@@ -244,7 +244,7 @@
                       <item>
                        <layout class="QHBoxLayout" name="horizontalLayout_4">
                         <item>
-                         <widget class="QPushButton" name="pushButtonMintzENX">
+                         <widget class="QPushButton" name="pushButtonMintzDXD">
                           <property name="minimumSize">
                            <size>
                             <width>131</width>
@@ -252,7 +252,7 @@
                            </size>
                           </property>
                           <property name="toolTip">
-                           <string>Enter an amount of ENX to convert to zENX</string>
+                           <string>Enter an amount of DXD to convert to zDXD</string>
                           </property>
                           <property name="text">
                            <string>Mint Zerocoin</string>
@@ -276,14 +276,14 @@
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENX_2">
+                         <widget class="QLabel" name="labelzDXD_2">
                           <property name="text">
-                           <string>zENX</string>
+                           <string>zDXD</string>
                           </property>
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXAmountText">
+                         <widget class="QLabel" name="labelzDXDAmountText">
                           <property name="toolTip">
                            <string>Available for minting are coins which are confirmed and not locked or Masternode collaterals.</string>
                           </property>
@@ -296,12 +296,12 @@
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXAmountValue">
+                         <widget class="QLabel" name="labelzDXDAmountValue">
                           <property name="toolTip">
-                           <string>Enter an amount of ENX to convert to zENX</string>
+                           <string>Enter an amount of DXD to convert to zDXD</string>
                           </property>
                           <property name="text">
-                           <string>0.000 000 00 ENX</string>
+                           <string>0.000 000 00 DXD</string>
                           </property>
                           <property name="alignment">
                            <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -477,7 +477,7 @@
                              <enum>Qt::ActionsContextMenu</enum>
                             </property>
                             <property name="text">
-                             <string notr="true">0.00 ENX</string>
+                             <string notr="true">0.00 DXD</string>
                             </property>
                             <property name="textInteractionFlags">
                              <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -600,21 +600,21 @@
                          <number>0</number>
                         </property>
                         <item>
-                         <widget class="QPushButton" name="pushButtonzENXControl">
+                         <widget class="QPushButton" name="pushButtonzDXDControl">
                           <property name="text">
-                           <string>zENX Control</string>
+                           <string>zDXD Control</string>
                           </property>
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXSelected">
+                         <widget class="QLabel" name="labelzDXDSelected">
                           <property name="text">
-                           <string>zENX Selected:</string>
+                           <string>zDXD Selected:</string>
                           </property>
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXSelected_int">
+                         <widget class="QLabel" name="labelzDXDSelected_int">
                           <property name="text">
                            <string>0</string>
                           </property>
@@ -668,7 +668,7 @@
                       <item>
                        <layout class="QHBoxLayout" name="horizontalLayout_6">
                         <item>
-                         <widget class="QPushButton" name="pushButtonSpendzENX">
+                         <widget class="QPushButton" name="pushButtonSpendzDXD">
                           <property name="minimumSize">
                            <size>
                             <width>131</width>
@@ -684,9 +684,9 @@
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENXBalanceText">
+                         <widget class="QLabel" name="labelzDXDBalanceText">
                           <property name="toolTip">
-                           <string>Available (mature and spendable) zENX for spending</string>
+                           <string>Available (mature and spendable) zDXD for spending</string>
                           </property>
                           <property name="text">
                            <string>Available Balance:</string>
@@ -705,12 +705,12 @@
                            </font>
                           </property>
                           <property name="toolTip">
-                           <string>Available (mature and spendable) zENX for spending
+                           <string>Available (mature and spendable) zDXD for spending
 
-zENX are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</string>
+zDXD are mature when they have more than 20 confirmations AND more than 2 mints of the same denomination after them were minted</string>
                           </property>
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                           <property name="alignment">
                            <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -910,15 +910,15 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
                           </property>
                           <property name="buddy">
-                           <cstring>zENXpayAmount</cstring>
+                           <cstring>zDXDpayAmount</cstring>
                           </property>
                          </widget>
                         </item>
                         <item>
-                         <widget class="QLineEdit" name="zENXpayAmount"/>
+                         <widget class="QLineEdit" name="zDXDpayAmount"/>
                         </item>
                         <item>
-                         <widget class="QLabel" name="labelzENX">
+                         <widget class="QLabel" name="labelzDXD">
                           <property name="minimumSize">
                            <size>
                             <width>55</width>
@@ -926,7 +926,7 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
                            </size>
                           </property>
                           <property name="text">
-                           <string>zENX</string>
+                           <string>zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1005,7 +1005,7 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
                       <item>
                        <layout class="QHBoxLayout" name="horizontalLayout_21">
                         <item>
-                         <widget class="QLabel" name="labelzENXStats">
+                         <widget class="QLabel" name="labelzDXDStats">
                           <property name="font">
                            <font>
                             <pointsize>12</pointsize>
@@ -1085,7 +1085,7 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
                            </font>
                           </property>
                           <property name="toolTip">
-                           <string>Total Balance including unconfirmed and immature zENX</string>
+                           <string>Total Balance including unconfirmed and immature zDXD</string>
                           </property>
                           <property name="text">
                            <string>Total Zerocoin  Balance:</string>
@@ -1123,10 +1123,10 @@ zENX are mature when they have more than 20 confirmations AND more than 2 mints 
                            </font>
                           </property>
                           <property name="toolTip">
-                           <string>Total Balance including unconfirmed and immature zENX</string>
+                           <string>Total Balance including unconfirmed and immature zDXD</string>
                           </property>
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                           <property name="alignment">
                            <set>Qt::AlignRight|Qt::AlignTrailing|Qt::AlignVCenter</set>
@@ -1583,14 +1583,14 @@ Immature: confirmed, but less than 2 mints of the same denomination after it was
                         <item>
                          <widget class="QLabel" name="label_AutoMintStatus">
                           <property name="toolTip">
-                           <string>Show the current status of automatic zENX minting.
+                           <string>Show the current status of automatic zDXD minting.
 
 To change the status (restart required):
 - enable: add 'enablezeromint=1' to nodex.conf
 - disable: add 'enablezeromint=0' to nodex.conf
 
 To change the percentage (no restart required):
-- menu Settings-&gt;Options-&gt;Percentage of autominted zENX
+- menu Settings-&gt;Options-&gt;Percentage of autominted zDXD
 
 </string>
                           </property>
@@ -1670,7 +1670,7 @@ To change the percentage (no restart required):
                            </font>
                           </property>
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1701,7 +1701,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount1">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1732,7 +1732,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount5">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1763,7 +1763,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount10">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1794,7 +1794,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount50">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1825,7 +1825,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount100">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1856,7 +1856,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount500">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1887,7 +1887,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount1000">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -1918,7 +1918,7 @@ To change the percentage (no restart required):
                         <item>
                          <widget class="QLabel" name="labelZsupplyAmount5000">
                           <property name="text">
-                           <string>0 zENX</string>
+                           <string>0 zDXD</string>
                           </property>
                          </widget>
                         </item>
@@ -2048,7 +2048,7 @@ To change the percentage (no restart required):
          <enum>Qt::ActionsContextMenu</enum>
         </property>
         <property name="text">
-         <string notr="true">0.000 000 00 ENX</string>
+         <string notr="true">0.000 000 00 DXD</string>
         </property>
         <property name="textInteractionFlags">
          <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -2130,7 +2130,7 @@ To change the percentage (no restart required):
            <enum>Qt::ActionsContextMenu</enum>
           </property>
           <property name="text">
-           <string notr="true">0.00 ENX</string>
+           <string notr="true">0.00 DXD</string>
           </property>
           <property name="textInteractionFlags">
            <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
@@ -2352,7 +2352,7 @@ To change the percentage (no restart required):
          <enum>Qt::ActionsContextMenu</enum>
         </property>
         <property name="text">
-         <string notr="true">0.000 000 00 ENX</string>
+         <string notr="true">0.000 000 00 DXD</string>
         </property>
         <property name="textInteractionFlags">
          <set>Qt::LinksAccessibleByMouse|Qt::TextSelectableByKeyboard|Qt::TextSelectableByMouse</set>
